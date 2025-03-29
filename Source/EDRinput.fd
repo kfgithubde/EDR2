@@ -1,0 +1,86 @@
+!> \file EDRinput.fd
+!> \brief Common Block EDRINPUT
+!> \version 1.2
+!> \author  Dr.-Ing. Klaus Friedewald
+!> \~german
+!> Header passend zu EDRinput.hpp. Das Quelltextformat ist sowohl zum FTN77 Fixed
+!> Format als auch zum Ftn08 Free Format kompatibel.
+!> \n
+!> Bei Einlesen von EDR-Daten muss vor dem Aufruf von ReadCrashData() nEDRrec gesetzt werden.
+!> Nach dem Einlesen sind die Einheiten in MMEunit? bzw. EDRunit? abgespeichert.
+!> \note
+!> Da die folgende Definition kein Bestandteil eines Moduls
+!> ist, versagt der DOXYGEN-Parser bei der Kombination von
+!> COMMON und INTEGER. Workaraound: \\cond ... \\endcond.
+!> \~english
+!> Header belonging to EDRinput.hpp. The source format complies to the
+!> requirements of FTN77 Fixed Format as well as Fortran2008 Free Form.
+!> \n
+!> Before calling ReadCrashData() in order to read EDR-data nEDRrec has to be set.
+!> After processing the units, declared in the input files, are stored in
+!> MMEunit? respectively EDRunit?
+!> \note
+!> Because the following definition not being part of a module, the
+!> DOXYGEN parser is not able to handle the combination of COMMON
+!> and INTEGER declarations.  Workaround: \\cond ... \\endcond.
+!> \~
+!> \cond
+      use iso_c_binding
+      implicit none
+
+      integer iLe     ! max. Anzahl Stuetzstellen in EDR-Dateien
+      integer iLi     ! max. Anzahl der abgespecherten Stuetzstellen in ISO/MME-Dateien
+      integer lablen  ! max. Laenge der Label
+
+      parameter (iLe = 100, iLi=1000, lablen=80)
+
+      integer (c_int) nMME ! In ISO-MME announced number of samples
+      real (c_float) dtMME, tStartMME ! ISO-MME time intervall
+      real (c_float) txMME(iLi), tyMME(iLi), tzMME(iLi) ! Data from 3 ISO-files
+      real (c_float) axMME(iLi), ayMME(iLi), azMME(iLi)
+
+      integer (c_int) nEDRrec ! Record number to read
+      real (c_float) txEDR(iLe), tyEDR(iLe), tzEDR(iLe) ! Data from 1 EDR-files
+      real (c_float) vxEDR(iLe), vyEDR(iLe), vzEDR(iLe) ! obligatory data
+      real (c_float) axEDR(iLe), ayEDR(iLe), azEDR(iLe) ! optional data
+
+      real (c_float) plotTmin, plotTmax
+      real (c_float) plotVmin, plotVmax
+      real (c_float) plotAmin, plotAmax
+      real (c_float) tOffset
+      real (c_float) vBoxTx,vBoxVx, vBoxTy,vBoxVy, vBoxTz,vBoxVz
+
+      integer (c_int) iGrenzkurve
+      integer (c_int) iColorMME,iColorBOX, iLineTypeEDR,iSymbolEDR
+
+      character *(lablen) MMEunitT, MMEunitA, MMEunitV ! defined by ISO-MME file
+      character *(lablen) EDRunitT, EDRunitA, EDRunitV ! defined by Bosch CDR file
+      character *(lablen) ASSunitT, ASSunitA, ASSunitV ! user defined
+
+
+
+      COMMON /EDRINPUT/                                                 &
+     & nMME,                                                            &
+     & dtMME, tStartMME,                                                &
+     & txMME, tyMME, tzMME,                                             &
+     & axMME, ayMME, azMME,                                             &
+     & nEDRrec,                                                         &
+     & txEDR, tyEDR, tzEDR,                                             &
+     & vxEDR, vyEDR, vzEDR,                                             &
+     & axEDR, ayEDR, azEDR,                                             &
+     & plotTmin, plotTmax,                                              &
+     & plotVmin, plotVmax,                                              &
+     & plotAmin, plotAmax,                                              &
+     & tOffset,                                                         &
+     & vBoxTx,vBoxVx, vBoxTy,vBoxVy, vBoxTz,vBoxVz,                     &
+     & iGrenzkurve,                                                     &
+     & iColorMME,iColorBOX, iLineTypeEDR,iSymbolEDR,                    &
+     & MMEunitT, MMEunitA, MMEunitV,                                    &
+     & EDRunitT, EDRunitA, EDRunitV,                                    &
+     & ASSunitT, ASSunitA, ASSunitV
+
+      SAVE /EDRINPUT/
+      BIND (C, name='edrinput_') :: /EDRINPUT/
+
+
+!> \endcond

@@ -1,0 +1,27 @@
+#define NUMBER 258
+
+#define NUMSAMPL 259
+#define SAMPLINTVL 260
+#define TFIRSTSAMP 261
+#define MMEUNIT 262
+#define MMEVALUE 263
+#define MMETAIL 264
+#define MMEINTRO 265
+
+#define EDRINTRO 300
+#define EDRXREC 302
+#define EDRYREC 303
+#define EDRZREC 304
+#define NUMBER2 305
+#define NUMBER3 306
+#define NUMDELIM 307
+#define RDWHAT 308
+#define EDRVUNIT 309
+#define EDRAUNIT 310
+#define EDRSYSREC 311
+#define MAXDELTAVX 312
+#define TMAXDELTAVX 313
+#define MAXDELTAVY 314
+#define TMAXDELTAVY 315
+
+#define DBGCALL 316

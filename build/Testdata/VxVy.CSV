@@ -1,0 +1,129 @@
+CDR FILE INFORMATIONUser Entered VIN,ABCDE123456789012User,AbCdCase Number,1234EDR Data Imaging Date,"11/11/2011"Crash Date,"11/11/2011"Filename,VxVy.CDRXSaved on,"Friday, November 11 2011 at 11:11:11"Collected with CDR version,Crash Data Retrieval Tool 16.4Reported with CDR version,Crash Data Retrieval Tool 16.4EDR Device Type,Airbag Control ModuleEvent(s) recovered,Record 1
+
+DATA LIMITATIONS
+Refer to the CDR report for data limitations
+
+"SYSTEM STATUS AT EVENT (RECORD 1, MOST RECENT)"
+Event Type,Frontal
+"Multi-Event, Number of Events",1. Event
+Time from Initial Event to Current Event (msec),Data Not Available
+Vehicle Mileage (km),"1,140"
+Operating Time (min),"3,329"
+Ignition Cycle at Event (Cycles),605
+Ignition Cycle at Download (Cycles),608
+"Maximum Delta-V, Longitudinal (km/h)",-44
+"Time, Maximum Delta-V, Longitudinal (msec)",190.0
+"Clipping Time, Longitudinal Acceleration Sensor (msec)",Clipping Not Reached
+"Maximum Delta-V, Lateral (km/h)",5
+"Time, Maximum Delta-V, Lateral (msec)",170.0
+"Clipping Time, Lateral Acceleration Sensor (msec)",Clipping Not Reached
+"Time, Maximum Delta-V, Resultant (msec)",190.0
+Time from Last Speed Data Sample (Precrash) to Time Zero (msec),362
+Vehicle Identification Number (VIN),ABCDE123456789012
+Complete File Recorded,Completed Successfully
+
+"DEPLOYMENT COMMAND DATA (RECORD 1, MOST RECENT)"
+"Pretensioner, Time to 1st Stage Deployment, Driver (msec)",17
+"Belt-Load Limiter, Time to Deployment, Driver (msec)",220
+"Frontal Airbag, Time to 1st Stage Deployment, Driver (msec)",20
+"Frontal Airbag, Time to 2nd Stage Deployment, Driver (msec)",Not Deployed
+"Frontal Airbag, 2nd Stage Disposal, Driver",No Disposal
+"Knee Airbag, Time to Deployment, Driver (msec)",Not Deployed
+"Side Airbag, Time to Deployment 1st Stage, Driver (msec)",Not Deployed
+"Side Curtain/Tube Airbag, Time to Deployment, Driver Side (msec)",30
+"Pretensioner, Time to 1st Stage Deployment,  Front Passenger (msec)",17
+"Belt-Load Limiter, Time to Deployment, Front Passenger (msec)",220
+"Frontal Airbag, Time to 1st Stage Deployment, Front Passenger (msec)",20
+"Frontal Airbag, Time to 2nd Stage Deployment, Front Passenger (msec)",30
+"Frontal Airbag, 2nd Stage Disposal, Front Passenger",No Disposal
+"Knee Airbag, Time to Deployment, Front Passenger (msec)",Not Deployed
+"Side Airbag, Time to Deployment 1st Stage, Front Passenger (msec)",Not Deployed
+"Side Curtain/Tube Airbag, Time to Deployment, Passenger Side (msec)",30
+"Pretensioner, Time to 1st Stage Deployment, 2nd Row, Driver Side (msec)",17
+"Pretensioner, Time to 1st Stage Deployment, 2nd Row, Passenger Side (msec)",17
+"Side Airbag, Time to Deployment 1st Stage, 2nd Row, Driver Side (msec)",Not Deployed
+"Side Airbag, Time to Deployment 1st Stage, 2nd Row, Passenger Side (msec)",Not Deployed
+"Battery Disconnect, Time to Deployment (msec)",21
+"High-Voltage Battery Deactivation, Time to Deployment (msec)",Not Deployed
+
+"PRE-CRASH DATA -1 SEC (RECORD 1, MOST RECENT)"
+"Safety Belt Status, Driver",Belted
+"Seat Track Position Switch Status, Driver",Foremost
+"Safety Belt Status, Front Passenger",Belted
+"Seat Track Position Switch Status, Front Passenger",Foremost
+"Occupant Size Classification, Front Passenger",Not Empty
+"Frontal Airbag Disable Indicator Status, Passenger",Off
+"Airbag Warning Lamp, Status",Off
+
+"PRE-CRASH DATA -5 TO 0 SEC (RECORD 1, MOST RECENT)"
+Time (sec),Engine RPM (Combustion Engine) (RPM),ABS Activity,Steering Input (deg),"Speed, Vehicle Indicated (km/h)",Accelerator Pedal (%),Service Brake Activation,
+-5.0,0,No ABS Activity,0,13,0,Off,
+-4.5,0,No ABS Activity,0,16,0,Off,
+-4.0,0,No ABS Activity,0,18,0,Off,
+-3.5,0,No ABS Activity,0,21,0,Off,
+-3.0,0,No ABS Activity,0,23,0,Off,
+-2.5,0,No ABS Activity,0,26,0,Off,
+-2.0,0,No ABS Activity,0,28,0,Off,
+-1.5,0,No ABS Activity,0,31,0,Off,
+-1.0,0,No ABS Activity,0,33,0,Off,
+-0.5,0,No ABS Activity,0,36,0,Off,
+0.0,0,No ABS Activity,0,38,0,Off,
+
+"LONGITUDINAL CRASH PULSE (RECORD 1, MOST RECENT)"
+Time (msec),"Delta-V, Longitudinal (km/h)",
+0,0,
+10,-1,
+20,-2,
+30,-3,
+40,-3,
+50,-4,
+60,-9,
+70,-13,
+80,-17,
+90,-20,
+100,-24,
+110,-28,
+120,-32,
+130,-36,
+140,-39,
+150,-41,
+160,-42,
+170,-43,
+180,-43,
+190,-44,
+200,-44,
+210,-44,
+220,-44,
+230,-44,
+240,-43,
+250,-43,
+
+"LATERAL CRASH PULSE (RECORD 1, MOST RECENT)"
+Time (msec),"Delta-V, Lateral (km/h)",
+0,0,
+10,0,
+20,-1,
+30,0,
+40,0,
+50,0,
+60,0,
+70,0,
+80,1,
+90,0,
+100,0,
+110,1,
+120,1,
+130,2,
+140,3,
+150,3,
+160,4,
+170,5,
+180,5,
+190,5,
+200,5,
+210,5,
+220,5,
+230,5,
+240,5,
+250,5,
+
