@@ -11,11 +11,13 @@
 Alternative: Start über eine MSYS2 Console:
 $ cd /c/Users/ebb3494/Documents/Sources/EDR2_pre023/EDR2
 $ ./EDR2.exe
+oder  starten in der CMD-Konsole und Umleiten in eine Datei:
+$EDR2 >> MyLog.log
+
 
 Einheiten:
 Die eingelesenen Vektoren MMEx, EDRx behalten die Einheiten der Eingabedateien. Die se werden in den Textfeldern abgespeichert. Alle anderen Variablen des Commonblocks sind in SI-Einheiten. Die Einheit des Assessmentplots kann während der Eingabe von Toffset und vBox geändert werden, intern bleiben die Vektoren jedoch unverändert.
 MME-Dateien: Zeit (= t0 + Deltat) immer in Sekunden, y-Einheit wird eingelesen
-EDR-Dateien: 
 EDR-Dateien: ms, g und km/h fest vorgegeben und zur Auswertung der CSV-Dateien verwendet. Falls die Konvention in der Ausgabedatei geändert werden sollte, muss das Programm entsprechend erweitert werden (zusätzliche Match-Klausel in ReadCrashData.l und entsprechende Anpassung bei den Actionblöcken RDWHAT
 
 ReadCrashData: Eine Routine sowohl für EDR als auch MME. Die EDR-Daten werden direkt in den  Commonblock geschrieben, die MME-Daten schreiben auch in den Commonblock, aber über den Umweg der Argumente xDatArr, yDatArr. So wird durch die aufrufende Routine ReadCrashData mitgeteilt welche Achse über die Datei eingelesen wird.  
@@ -24,25 +26,12 @@ Definition der Defaults:
 Record to Use, ScaleFactorX,Y,Z, Ploteinheiten und Grenzkurve in EDR2frame.wxs
 tmin,tmax,amin,amax,vmin,vmax, toffset in EDR2Main.cpp
 
-Lesen der printf-Ausgaben: starten in der CMD-Konsole und Umleiten in eine Datei:
-$EDR2 >> MyLog.log
-
-ToDo in Teklib:
-i1.csv Y-Assessment mit x-Achse in Sekunden: Label bei 0 ist ??? -> erledigt mit V5.4
-Neue Funktion GetCINFIN -> erledigt mit V5.3
-
 Parameter für ASSplotA
 !    parameter (CornerF= 33.3) ! Cornerfrequency CFC 20: SAE J211
-!    parameter (CornerF= 10.) ! Cornerfrequency 10*1/tAbtastEDR
+!    parameter (CornerF= 10.) !  Cornerfrequency 10*1/tAbtastEDR
 
-Parameter für ASSplot
-! SAE J1698/3: 2.Ordnung Butterworth 150 Hz
-!
-!  ------ iGrenzkurve=1 und 2: untere Grenzkurve nach SAE-J1698 (durch Filter)
-!
-! untere Grenzkurve yMMEvLscale: gefiltert und - 10km/h
-!
-(10. * fac2SI("km/h"//c_null_char)
+! wxFilePickerCtrl
+Der Style wxFLP_SMALL wird eingesetzt, da die Default-Beschriftung "BROWSE" nicht geändert und auch nicht lokalisiert werden kann. wxFLP_SMALL liefert stattdessen "..."
 
 
 

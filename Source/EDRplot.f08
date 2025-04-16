@@ -374,16 +374,19 @@ subroutine ASSplot (tEDR, vEDR, tMME, aMME, dv,CornerF, vBoxT, vBoxV, title) bin
     call line (iLineTypeEDR)
     call cplot(tEDRscale, vEDRscale)
 
-    call dblsiz
-
     write (ftnstr1, fmt='(1x,f5.1)', iostat=i) dv/fac2SI('km/h'//c_null_char)
     ftnstr1= ftnstr1(1:6) // ' km/h' ! limit always in km/h
     do i=1,lablen
       ftnstr(i:i)=title(i) ! convert c to ftn string
       if (title(i) == c_null_char) exit
     end do
-    ftnstr= ftnstr(1:i-1) // ftnstr1(1:11)
-    if (i.gt.0) call notatec (100, 720, ftnstr)
+
+    if ((i+11) .le. (lablen/2)) call dblsiz ! titleshort enough for doublesize
+
+    if (i.gt.1) then ! Only if titleprefix was defined
+      ftnstr= ftnstr(1:i-1) // ftnstr1(1:11)
+      call notatec (100, 720, ftnstr)
+    end if
 
     call notatec (500, 50, ASSunitT)
     call movabs (20,600)
@@ -527,17 +530,19 @@ subroutine ASSplotA (tEDR, aEDR, tMME, aMME, da,CornerF, title) bind (C, name='A
 
     call DefaultColour
 
-    call dblsiz
-
     write (ftnstr1, fmt='(1x,f5.1)', iostat=i) da/fac2SI('g'//c_null_char) ! limit always in g
     ftnstr1= ftnstr1(1:6) // ' g'
     do i=1,lablen
       ftnstr(i:i)=title(i) ! convert c to ftn string
       if (title(i) == c_null_char) exit
     end do
-    ftnstr= ftnstr(1:i-1) // ftnstr1(1:8)
-    i= iTrimLen(ftnstr)
-    call notatec (100, 720, ftnstr)
+
+    if ((i+8) .le. (lablen/2)) call dblsiz ! title short enough for doublesize
+
+    if (i.gt.1) then ! Only if titleprefix was defined
+      ftnstr= ftnstr(1:i-1) // ftnstr1(1:8)
+      call notatec (100, 720, ftnstr)
+    end if
 
     call notatec (500, 50, ASSunitT)
     call movabs (20,600)

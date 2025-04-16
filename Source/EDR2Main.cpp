@@ -522,7 +522,7 @@ EDR2Frame::EDR2Frame(wxWindow* parent,wxWindowID id)
     wxMenuItem* MenuItem2;
 
     Create(parent, wxID_ANY, wxEmptyString, wxDefaultPosition, wxDefaultSize, wxDEFAULT_FRAME_STYLE, _T("wxID_ANY"));
-    SetClientSize(wxSize(1170,710));
+    SetMinSize(wxSize(1120,750));
     Panel1 = new wxPanel(this, ID_PANEL1, wxDefaultPosition, wxDefaultSize, wxTAB_TRAVERSAL, _T("ID_PANEL1"));
     FlexGridSizer1 = new wxFlexGridSizer(3, 2, 0, 3);
     Panel2 = new wxPanel(Panel1, ID_PANEL2, wxDefaultPosition, wxDefaultSize, wxBORDER_RAISED|wxTAB_TRAVERSAL, _T("ID_PANEL2"));
@@ -545,7 +545,7 @@ EDR2Frame::EDR2Frame(wxWindow* parent,wxWindowID id)
     FlexGridSizer2->Add(SpinEDRnum, 1, wxALL|wxALIGN_LEFT|wxALIGN_CENTER_VERTICAL, 5);
     StaticText3 = new wxStaticText(Panel2, ID_STATICTEXT3, _("File"), wxDefaultPosition, wxDefaultSize, 0, _T("ID_STATICTEXT3"));
     FlexGridSizer2->Add(StaticText3, 1, wxALL|wxALIGN_RIGHT|wxALIGN_CENTER_VERTICAL, 5);
-    FilePickerEDR = new wxFilePickerCtrl(Panel2, ID_FILEPICKERCTRL1, wxEmptyString, wxEmptyString, _T("*.csv"), wxDefaultPosition, wxDefaultSize, wxFLP_FILE_MUST_EXIST|wxFLP_OPEN|wxFLP_USE_TEXTCTRL, wxDefaultValidator, _T("ID_FILEPICKERCTRL1"));
+    FilePickerEDR = new wxFilePickerCtrl(Panel2, ID_FILEPICKERCTRL1, wxEmptyString, wxEmptyString, _T("*.csv"), wxDefaultPosition, wxDefaultSize, wxFLP_FILE_MUST_EXIST|wxFLP_OPEN|wxFLP_USE_TEXTCTRL|wxFLP_SMALL, wxDefaultValidator, _T("ID_FILEPICKERCTRL1"));
     FlexGridSizer2->Add(FilePickerEDR, 1, wxALL|wxALIGN_LEFT|wxALIGN_CENTER_VERTICAL, 5);
     OpenEDR = new wxButton(Panel2, ID_BUTTON1, _("Open"), wxDefaultPosition, wxDefaultSize, 0, wxDefaultValidator, _T("ID_BUTTON1"));
     OpenEDR->Disable();
@@ -602,7 +602,7 @@ EDR2Frame::EDR2Frame(wxWindow* parent,wxWindowID id)
     FlexGridSizer3->Add(TextScaleMMEx, 1, wxALL|wxALIGN_CENTER_HORIZONTAL|wxALIGN_CENTER_VERTICAL, 5);
     StaticText11 = new wxStaticText(Panel3, ID_STATICTEXT11, _("File X"), wxDefaultPosition, wxDefaultSize, 0, _T("ID_STATICTEXT11"));
     FlexGridSizer3->Add(StaticText11, 1, wxALL|wxALIGN_CENTER_HORIZONTAL|wxALIGN_CENTER_VERTICAL, 5);
-    FilePickerMMEx = new wxFilePickerCtrl(Panel3, ID_FILEPICKERCTRL2, wxEmptyString, wxEmptyString, wxEmptyString, wxDefaultPosition, wxDefaultSize, wxFLP_FILE_MUST_EXIST|wxFLP_OPEN|wxFLP_USE_TEXTCTRL, wxDefaultValidator, _T("ID_FILEPICKERCTRL2"));
+    FilePickerMMEx = new wxFilePickerCtrl(Panel3, ID_FILEPICKERCTRL2, wxEmptyString, wxEmptyString, wxEmptyString, wxDefaultPosition, wxDefaultSize, wxFLP_FILE_MUST_EXIST|wxFLP_OPEN|wxFLP_USE_TEXTCTRL|wxFLP_SMALL, wxDefaultValidator, _T("ID_FILEPICKERCTRL2"));
     FlexGridSizer3->Add(FilePickerMMEx, 1, wxALL|wxALIGN_CENTER_HORIZONTAL|wxALIGN_CENTER_VERTICAL, 5);
     OpenMMEx = new wxButton(Panel3, ID_BUTTON2, _("Open"), wxDefaultPosition, wxDefaultSize, 0, wxDefaultValidator, _T("ID_BUTTON2"));
     OpenMMEx->Disable();
@@ -613,7 +613,7 @@ EDR2Frame::EDR2Frame(wxWindow* parent,wxWindowID id)
     FlexGridSizer3->Add(TextScaleMMEy, 1, wxALL|wxALIGN_CENTER_HORIZONTAL|wxALIGN_CENTER_VERTICAL, 5);
     StaticText17 = new wxStaticText(Panel3, ID_STATICTEXT17, _("File Y"), wxDefaultPosition, wxDefaultSize, 0, _T("ID_STATICTEXT17"));
     FlexGridSizer3->Add(StaticText17, 1, wxALL|wxALIGN_CENTER_HORIZONTAL|wxALIGN_CENTER_VERTICAL, 5);
-    FilePickerMMEy = new wxFilePickerCtrl(Panel3, ID_FILEPICKERCTRL3, wxEmptyString, wxEmptyString, wxEmptyString, wxDefaultPosition, wxDefaultSize, wxFLP_FILE_MUST_EXIST|wxFLP_OPEN|wxFLP_USE_TEXTCTRL, wxDefaultValidator, _T("ID_FILEPICKERCTRL3"));
+    FilePickerMMEy = new wxFilePickerCtrl(Panel3, ID_FILEPICKERCTRL3, wxEmptyString, wxEmptyString, wxEmptyString, wxDefaultPosition, wxDefaultSize, wxFLP_FILE_MUST_EXIST|wxFLP_OPEN|wxFLP_USE_TEXTCTRL|wxFLP_SMALL, wxDefaultValidator, _T("ID_FILEPICKERCTRL3"));
     FlexGridSizer3->Add(FilePickerMMEy, 1, wxALL|wxALIGN_CENTER_HORIZONTAL|wxALIGN_CENTER_VERTICAL, 5);
     OpenMMEy = new wxButton(Panel3, ID_BUTTON_OpenMMEy, _("Open"), wxDefaultPosition, wxDefaultSize, 0, wxDefaultValidator, _T("ID_BUTTON_OpenMMEy"));
     OpenMMEy->Disable();
@@ -624,7 +624,7 @@ EDR2Frame::EDR2Frame(wxWindow* parent,wxWindowID id)
     FlexGridSizer3->Add(TextScaleMMEz, 1, wxALL|wxALIGN_CENTER_HORIZONTAL|wxALIGN_CENTER_VERTICAL, 5);
     StaticText19 = new wxStaticText(Panel3, ID_STATICTEXT19, _("File Z"), wxDefaultPosition, wxDefaultSize, 0, _T("ID_STATICTEXT19"));
     FlexGridSizer3->Add(StaticText19, 1, wxALL|wxALIGN_CENTER_HORIZONTAL|wxALIGN_CENTER_VERTICAL, 5);
-    FilePickerMMEz = new wxFilePickerCtrl(Panel3, ID_FILEPICKERCTRL4, wxEmptyString, wxEmptyString, wxEmptyString, wxDefaultPosition, wxDefaultSize, wxFLP_FILE_MUST_EXIST|wxFLP_OPEN|wxFLP_USE_TEXTCTRL, wxDefaultValidator, _T("ID_FILEPICKERCTRL4"));
+    FilePickerMMEz = new wxFilePickerCtrl(Panel3, ID_FILEPICKERCTRL4, wxEmptyString, wxEmptyString, wxEmptyString, wxDefaultPosition, wxDefaultSize, wxFLP_FILE_MUST_EXIST|wxFLP_OPEN|wxFLP_USE_TEXTCTRL|wxFLP_SMALL, wxDefaultValidator, _T("ID_FILEPICKERCTRL4"));
     FlexGridSizer3->Add(FilePickerMMEz, 1, wxALL|wxALIGN_CENTER_HORIZONTAL|wxALIGN_CENTER_VERTICAL, 5);
     OpenMMEz = new wxButton(Panel3, ID_BUTTON4, _("Open"), wxDefaultPosition, wxDefaultSize, 0, wxDefaultValidator, _T("ID_BUTTON4"));
     OpenMMEz->Disable();
@@ -738,7 +738,7 @@ EDR2Frame::EDR2Frame(wxWindow* parent,wxWindowID id)
     TextCtrlFreq = new wxTextCtrl(Panel5, ID_TEXTCTRL18, _("To Inialize"), wxDefaultPosition, wxDefaultSize, 0, wxDefaultValidator, _T("ID_TEXTCTRL18"));
     FlexGridSizer5->Add(TextCtrlFreq, 1, wxALL|wxALIGN_CENTER_HORIZONTAL|wxALIGN_CENTER_VERTICAL, 5);
     StaticTextUnitRF = new wxStaticText(Panel5, ID_STATICTEXT38, _("To Inialize"), wxDefaultPosition, wxDefaultSize, 0, _T("ID_STATICTEXT38"));
-    FlexGridSizer5->Add(StaticTextUnitRF, 1, wxALL|wxALIGN_CENTER_HORIZONTAL|wxALIGN_CENTER_VERTICAL, 5);
+    FlexGridSizer5->Add(StaticTextUnitRF, 1, wxALL|wxALIGN_LEFT|wxALIGN_CENTER_VERTICAL, 5);
     StaticText38 = new wxStaticText(Panel5, ID_STATICTEXT39, _("t Box"), wxDefaultPosition, wxDefaultSize, 0, _T("ID_STATICTEXT39"));
     FlexGridSizer5->Add(StaticText38, 1, wxALL|wxALIGN_RIGHT|wxALIGN_CENTER_VERTICAL, 5);
     TextTboxX = new wxTextCtrl(Panel5, ID_TEXTCTRL11, _("0"), wxDefaultPosition, wxDefaultSize, 0, wxDefaultValidator, _T("ID_TEXTCTRL11"));
@@ -914,8 +914,7 @@ void EDR2Frame::OnLicence(wxCommandEvent& event)
 wxString tmp1,tmp2, msg;
 
     msg = (wxString) "\n" +
-                     _("This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation;")
-                     + _("either version 3 of the License, or at your option any later version.")
+                     _("This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 3 of the License, or at your option any later version.")
                      + "\n\n" +
                      _("This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.")
                      + "\n\n" +

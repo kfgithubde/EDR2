@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: EDR2\n"
-"POT-Creation-Date: 2025-03-10 23:56+0100\n"
+"POT-Creation-Date: 2025-04-07 21:00+0200\n"
 "PO-Revision-Date: 2024-12-17 22:49+0100\n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -32,302 +32,298 @@ msgstr ""
 msgid "%:EDR2config.xml"
 msgstr ""
 
-#: EDR2Main.cpp:93 EDR2Main.cpp:676
+#: EDR2Main.cpp:93 EDR2Main.cpp:674
 msgid "s"
 msgstr ""
 
-#: EDR2Main.cpp:94 EDR2Main.cpp:700
+#: EDR2Main.cpp:94 EDR2Main.cpp:698
 msgid "m/s"
 msgstr ""
 
-#: EDR2Main.cpp:95 EDR2Main.cpp:688
+#: EDR2Main.cpp:95 EDR2Main.cpp:686
 msgid "m/(s*s)"
 msgstr ""
 
-#: EDR2Main.cpp:97 EDR2Main.cpp:677
+#: EDR2Main.cpp:97 EDR2Main.cpp:675
 msgid "ms"
 msgstr ""
 
-#: EDR2Main.cpp:99 EDR2Main.cpp:701
+#: EDR2Main.cpp:99 EDR2Main.cpp:699
 msgid "km/h"
 msgstr ""
 
-#: EDR2Main.cpp:101 EDR2Main.cpp:702
+#: EDR2Main.cpp:101 EDR2Main.cpp:700
 msgid "mph"
 msgstr ""
 
-#: EDR2Main.cpp:103 EDR2Main.cpp:689
+#: EDR2Main.cpp:103 EDR2Main.cpp:687
 msgid "g"
 msgstr ""
 
-#: EDR2Main.cpp:481
+#: EDR2Main.cpp:479
 msgid "X-Direction EDR: Acceleration and change in velocity"
 msgstr ""
 
-#: EDR2Main.cpp:484
+#: EDR2Main.cpp:482
 msgid "Y-Direction EDR: Acceleration and change in velocity"
 msgstr ""
 
-#: EDR2Main.cpp:487
+#: EDR2Main.cpp:485
 msgid "Z-Direction EDR: Acceleration and change in velocity"
 msgstr ""
 
-#: EDR2Main.cpp:491
+#: EDR2Main.cpp:489
 msgid "X-Direction: MME data set unfiltered and filtered at 150Hz"
 msgstr ""
 
-#: EDR2Main.cpp:494
+#: EDR2Main.cpp:492
 msgid "Y-Direction: MME data set unfiltered and filtered at 150Hz"
 msgstr ""
 
-#: EDR2Main.cpp:497
+#: EDR2Main.cpp:495
 msgid "Z-Direction: MME data set unfiltered and filtered at 150Hz"
 msgstr ""
 
-#: EDR2Main.cpp:501
+#: EDR2Main.cpp:499
 msgid "Assessment X-Direction, error corridor"
 msgstr ""
 
-#: EDR2Main.cpp:504
+#: EDR2Main.cpp:502
 msgid "Assessment Y-Direction, error corridor"
 msgstr ""
 
-#: EDR2Main.cpp:507
+#: EDR2Main.cpp:505
 msgid "Assessment Z-Direction, error corridor"
 msgstr ""
 
-#: EDR2Main.cpp:533
+#: EDR2Main.cpp:531
 msgid "EDR Data               "
 msgstr ""
 
-#: EDR2Main.cpp:543
+#: EDR2Main.cpp:541
 msgid "Record to Use"
 msgstr ""
 
-#: EDR2Main.cpp:548
+#: EDR2Main.cpp:546
 msgid "File"
 msgstr ""
 
-#: EDR2Main.cpp:552 EDR2Main.cpp:609 EDR2Main.cpp:620 EDR2Main.cpp:631
+#: EDR2Main.cpp:550 EDR2Main.cpp:607 EDR2Main.cpp:618 EDR2Main.cpp:629
 msgid "Open"
 msgstr ""
 
-#: EDR2Main.cpp:576 EDR2Main.cpp:634
+#: EDR2Main.cpp:574 EDR2Main.cpp:632
 msgid "Plot X"
 msgstr ""
 
-#: EDR2Main.cpp:579 EDR2Main.cpp:637
+#: EDR2Main.cpp:577 EDR2Main.cpp:635
 msgid "Plot Y"
 msgstr ""
 
-#: EDR2Main.cpp:582 EDR2Main.cpp:640
+#: EDR2Main.cpp:580 EDR2Main.cpp:638
 msgid "Plot Z"
 msgstr ""
 
-#: EDR2Main.cpp:591
+#: EDR2Main.cpp:589
 msgid "ISO-MME Data"
 msgstr ""
 
-#: EDR2Main.cpp:601
+#: EDR2Main.cpp:599
 msgid "Scale Factor X"
 msgstr ""
 
-#: EDR2Main.cpp:603 EDR2Main.cpp:614 EDR2Main.cpp:625
+#: EDR2Main.cpp:601 EDR2Main.cpp:612 EDR2Main.cpp:623
 msgid "1.0"
 msgstr ""
 
-#: EDR2Main.cpp:605
+#: EDR2Main.cpp:603
 msgid "File X"
 msgstr ""
 
-#: EDR2Main.cpp:612
+#: EDR2Main.cpp:610
 msgid "Scale Factor Y"
 msgstr ""
 
-#: EDR2Main.cpp:616
+#: EDR2Main.cpp:614
 msgid "File Y"
 msgstr ""
 
-#: EDR2Main.cpp:623
+#: EDR2Main.cpp:621
 msgid "Scale Factor Z"
 msgstr ""
 
-#: EDR2Main.cpp:627
+#: EDR2Main.cpp:625
 msgid "File Z"
 msgstr ""
 
-#: EDR2Main.cpp:657
+#: EDR2Main.cpp:655
 msgid "Plot Window"
 msgstr ""
 
-#: EDR2Main.cpp:667
+#: EDR2Main.cpp:665
 msgid "t min"
 msgstr ""
 
-#: EDR2Main.cpp:669 EDR2Main.cpp:681 EDR2Main.cpp:693
+#: EDR2Main.cpp:667 EDR2Main.cpp:679 EDR2Main.cpp:691
 msgid "1"
 msgstr ""
 
-#: EDR2Main.cpp:671
+#: EDR2Main.cpp:669
 msgid "t max"
 msgstr ""
 
-#: EDR2Main.cpp:673 EDR2Main.cpp:685 EDR2Main.cpp:697
+#: EDR2Main.cpp:671 EDR2Main.cpp:683 EDR2Main.cpp:695
 msgid "-1"
 msgstr ""
 
-#: EDR2Main.cpp:679
+#: EDR2Main.cpp:677
 msgid "a min"
 msgstr ""
 
-#: EDR2Main.cpp:683
+#: EDR2Main.cpp:681
 msgid "a max"
 msgstr ""
 
-#: EDR2Main.cpp:691
+#: EDR2Main.cpp:689
 msgid "v min"
 msgstr ""
 
-#: EDR2Main.cpp:695
+#: EDR2Main.cpp:693
 msgid "v max"
 msgstr ""
 
-#: EDR2Main.cpp:710
+#: EDR2Main.cpp:708
 msgid "Assessment"
 msgstr ""
 
-#: EDR2Main.cpp:720
+#: EDR2Main.cpp:718
 msgid "t Offset"
 msgstr ""
 
-#: EDR2Main.cpp:722 EDR2Main.cpp:746 EDR2Main.cpp:748 EDR2Main.cpp:750
-#: EDR2Main.cpp:756 EDR2Main.cpp:758 EDR2Main.cpp:760
+#: EDR2Main.cpp:720 EDR2Main.cpp:744 EDR2Main.cpp:746 EDR2Main.cpp:748
+#: EDR2Main.cpp:754 EDR2Main.cpp:756 EDR2Main.cpp:758
 msgid "0"
 msgstr ""
 
-#: EDR2Main.cpp:724 EDR2Main.cpp:738 EDR2Main.cpp:740 EDR2Main.cpp:742
-#: EDR2Main.cpp:752 EDR2Main.cpp:762
+#: EDR2Main.cpp:722 EDR2Main.cpp:736 EDR2Main.cpp:738 EDR2Main.cpp:740
+#: EDR2Main.cpp:750 EDR2Main.cpp:760
 msgid "To Inialize"
 msgstr ""
 
-#: EDR2Main.cpp:730
+#: EDR2Main.cpp:728
 msgid "Limit Curve"
 msgstr ""
 
-#: EDR2Main.cpp:733
+#: EDR2Main.cpp:731
 msgid "V: SAE J1698"
 msgstr ""
 
-#: EDR2Main.cpp:734
+#: EDR2Main.cpp:732
 msgid "V: SAE J1698 adjusted"
 msgstr ""
 
-#: EDR2Main.cpp:735
+#: EDR2Main.cpp:733
 msgid "V: TP 563/UN R-160"
 msgstr ""
 
-#: EDR2Main.cpp:736
+#: EDR2Main.cpp:734
 msgid "A: UN R-160"
 msgstr ""
 
-#: EDR2Main.cpp:744
+#: EDR2Main.cpp:742
 msgid "t Box"
 msgstr ""
 
-#: EDR2Main.cpp:754
+#: EDR2Main.cpp:752
 msgid "v Box"
 msgstr ""
 
-#: EDR2Main.cpp:766
+#: EDR2Main.cpp:764
 msgid "X Assessment"
 msgstr ""
 
-#: EDR2Main.cpp:768
+#: EDR2Main.cpp:766
 msgid "Y Assessment"
 msgstr ""
 
-#: EDR2Main.cpp:770
+#: EDR2Main.cpp:768
 msgid "Z Assessment"
 msgstr ""
 
-#: EDR2Main.cpp:781
+#: EDR2Main.cpp:779
 msgid "Hardcopy"
 msgstr ""
 
-#: EDR2Main.cpp:781
+#: EDR2Main.cpp:779
 msgid "Make a Harcopy"
 msgstr ""
 
-#: EDR2Main.cpp:783
+#: EDR2Main.cpp:781
 msgid "Quit\tAlt-F4"
 msgstr ""
 
-#: EDR2Main.cpp:783
+#: EDR2Main.cpp:781
 msgid "Quit the application"
 msgstr ""
 
-#: EDR2Main.cpp:785
+#: EDR2Main.cpp:783
 msgid "&File"
 msgstr ""
 
-#: EDR2Main.cpp:787
+#: EDR2Main.cpp:785
 msgid "About\tF1"
 msgstr ""
 
-#: EDR2Main.cpp:787
+#: EDR2Main.cpp:785
 msgid "Show info about this application"
 msgstr ""
 
-#: EDR2Main.cpp:789
+#: EDR2Main.cpp:787
 msgid "Licence"
 msgstr ""
 
-#: EDR2Main.cpp:791
+#: EDR2Main.cpp:789
 msgid "Help"
 msgstr ""
 
-#: EDR2Main.cpp:902
+#: EDR2Main.cpp:900
 #, c-format
 msgid "Program Version: %d.%d%s Build %d\n"
 msgstr ""
 
-#: EDR2Main.cpp:904
+#: EDR2Main.cpp:902
 #, c-format
 msgid "AG2: %d-%d / TCS: %d-%d\n"
 msgstr ""
 
-#: EDR2Main.cpp:906
+#: EDR2Main.cpp:904
 msgid "EDR2 can be used to compare the data of an automotive Event Data Recorder with the corresponding data obtained by full scale crash tests."
 msgstr ""
 
-#: EDR2Main.cpp:908
+#: EDR2Main.cpp:906
 msgid "GCC Version: "
 msgstr ""
 
-#: EDR2Main.cpp:910
+#: EDR2Main.cpp:908
 msgid "Website: "
 msgstr ""
 
-#: EDR2Main.cpp:911
+#: EDR2Main.cpp:909
 msgid "Welcome to EDR2"
 msgstr ""
 
+#: EDR2Main.cpp:917
+msgid "This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 3 of the License, or at your option any later version."
+msgstr ""
+
 #: EDR2Main.cpp:919
-msgid "This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation;"
-msgstr ""
-
-#: EDR2Main.cpp:920
-msgid "either version 3 of the License, or at your option any later version."
-msgstr ""
-
-#: EDR2Main.cpp:922
 msgid "This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE."
 msgstr ""
 
-#: EDR2Main.cpp:924
+#: EDR2Main.cpp:921
 msgid "You should have received a copy of the GNU General Public License along with this program. If not, see <https://www.gnu.org/licenses/>."
 msgstr ""
 
-#: EDR2Main.cpp:925
+#: EDR2Main.cpp:922
 msgid "GNU General Public Licence"
 msgstr ""
