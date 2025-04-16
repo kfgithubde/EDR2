@@ -1,6 +1,0 @@
-09 December 2024
-   released version 2.1.10 of EDR2
-
-     Change log:
-        -New: Added Assesment according UN-ECE R160
-

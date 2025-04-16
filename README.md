@@ -6,7 +6,7 @@ The program should be self-explanatory: the left half of the window is used to s
 
 Input data of crash tests in ISO-MME format is processed using the right half of the window.
 
-![Screenshot](screenshot.png)
+![Screenshot](Screenshot.png)
 
 After pressing the "Assessment" buttons a new window will be shown, comparing EDR and MME data. The plot can be modified by the lower input fields. The following criteria for assessing the accuracy of the EDR data are implemented:
 
