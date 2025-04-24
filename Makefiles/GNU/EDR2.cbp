@@ -7,7 +7,12 @@
 		<Option compiler="gcc" />
 		<Option show_notes="0">
 			<notes>
-				<![CDATA[Die Debug-Programmausgaben über printf während des Einlesens werden in Windows nicht ausgegeben (auch bei Start über die Kommandoconsole).  Im Debugger erscheinen die Ausgaben im Debug-Fenster. 
+				<![CDATA[ToDo:
+- Veröffentlichte Version in GitHub beinhaltet noch .svn-Verzeichnisse in den subdirectories /bin und /licenses -> Löschen und Ergänzen von .gitignore
+- Spanische Übersetzung (auch Erwähnung in ReadMe.md)
+
+
+Die Debug-Programmausgaben über printf während des Einlesens werden in Windows nicht ausgegeben (auch bei Start über die Kommandoconsole).  Im Debugger erscheinen die Ausgaben im Debug-Fenster. 
 Alternative: Start über eine MSYS2 Console:
 $ cd /c/Users/ebb3494/Documents/Sources/EDR2_pre023/EDR2
 $ ./EDR2.exe
@@ -78,6 +83,7 @@ Der Style wxFLP_SMALL wird eingesetzt, da die Default-Beschriftung "BROWSE" nich
 		</Build>
 		<Compiler>
 			<Add option="-Wall" />
+			<Add option="-m64" />
 			<Add option="-pipe" />
 			<Add option="-mthreads" />
 			<Add option="-D__GNUWIN32__" />
@@ -89,6 +95,8 @@ Der Style wxFLP_SMALL wird eingesetzt, da die Default-Beschriftung "BROWSE" nich
 			<Add directory="$(#wx)/include" />
 		</ResourceCompiler>
 		<Linker>
+			<Add option="-static" />
+			<Add option="-m64" />
 			<Add option="-mthreads" />
 			<Add library="./libgraph2d.a" />
 			<Add library="libwxmsw31u.a" />
@@ -115,6 +123,7 @@ Der Style wxFLP_SMALL wird eingesetzt, da die Default-Beschriftung "BROWSE" nich
 			<Add library="liboleacc.a" />
 			<Add library="libuxtheme.a" />
 			<Add library="libgfortran.a" />
+			<Add library="libquadmath.a" />
 		</Linker>
 		<Unit filename="ButterworthTime.for">
 			<Option weight="0" />

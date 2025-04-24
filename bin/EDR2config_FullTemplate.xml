@@ -30,7 +30,7 @@
 
   <Graph2D>
 	<Names>
-		<G2dGraphic>EDR2: Bewertung</G2dGraphic>
+		<G2dGraphic>EDR2: Mein Plotfenster</G2dGraphic>
 		<G2dHardcopy>HDC%03i.jpg</G2dHardcopy>
 	</Names>
 

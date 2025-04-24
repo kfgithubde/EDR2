@@ -2,6 +2,6 @@
 
 <EDR2>
   <General>
-      <XMLfile>EDR2UserInit-de.xml</XMLfile>
+      <XMLfile>%:EDR2UserInit-de.xml</XMLfile>
   </General>
 </EDR2>
