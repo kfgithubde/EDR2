@@ -10,7 +10,7 @@ copy ..\Source\*.* *.*
 
 if /I "%1%" neq "WX" goto NoWX
  echo Copying Files for MINGW GNU-Compiler, CB and wxSmith
- copy ..\Source\\*.* *.*
+ copy ..\Source\locale\*.* *.*
  copy ..\libs\GNU\*.* *.*
  xcopy /iey ..\Makefiles\GNU\ . 
  goto done

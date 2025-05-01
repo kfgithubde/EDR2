@@ -8,7 +8,6 @@
 		<Option show_notes="0">
 			<notes>
 				<![CDATA[ToDo:
-- Veröffentlichte Version in GitHub beinhaltet noch .svn-Verzeichnisse in den subdirectories /bin und /licenses -> Löschen und Ergänzen von .gitignore
 - Spanische Übersetzung (auch Erwähnung in ReadMe.md)
 
 

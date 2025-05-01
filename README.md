@@ -24,7 +24,7 @@ Hardcopies can be created via the "file" menu. The path and format (bmp or jpg) 
 
 ## Installation
 
-The installation does not require administrator rights. Unzip the archive file. The ready-to-use executable, along with localization files for German and French, is located in the /bin subdirectory. Copy its whole content, including all contained subdirectories, to a local directory. Create a link to the exe-file, move the link to the desktop or startmenu, and change the working directory to an appropriate user directory by modifying the properties of the link. 
+The installation does not require administrator rights. Unzip the archive file. The ready-to-use executable (along with localization files for German, French ans Spanish) is located in the /bin subdirectory. Copy its whole content, including all contained subdirectories, to a local directory. Create a link to the exe-file, move the link to the desktop or startmenu, and change the working directory to an appropriate user directory by modifying the properties of the link. 
 
 The initialization at program start is divided into two steps: the file EDR2config.xml chains to the file EDR2UserInit-de.xml in the same directory. Here individual settings are defined. If the local installation is used by several users, the link could be changed to a file in the working directory (filename without "%:") in order to allow user specific settings. You will find all possible settings in the example EDR2config_FullTemplate.xml.
 

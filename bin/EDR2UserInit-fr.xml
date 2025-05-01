@@ -2,7 +2,7 @@
 
 <EDR2>
   <General>
-      <Localization>de</Localization>
+      <Localization>fr</Localization>
   </General>
 
   <Charts>
@@ -17,7 +17,7 @@
 
   <Graph2D>
 	<Names>
-		<G2dGraphic>EDR2: Plotfenster</G2dGraphic>
+		<G2dGraphic>EDR2: Fenêtre de tracé</G2dGraphic>
 		<G2dHardcopy>HDC%03i.jpg</G2dHardcopy>
 	</Names>
 
@@ -29,9 +29,9 @@
 	</Layout>
 
 	<Messages>
-		<G2dHdcActive>Hardcopy %s wird erzeugt.</G2dHdcActive>
-		<G2dPressAny>Drücke eine beliebige Taste um fortzufahren.</G2dPressAny>
-		<G2dExit>Drücke eine beliebige Taste um das Fenster zu schliessen.</G2dExit>
+		<G2dHdcActive>Une copie papier %s est générée.</G2dHdcActive>
+		<G2dPressAny>Appuyez sur n’importe quelle touche pour continuer.</G2dPressAny>
+		<G2dExit>Appuyez sur n’importe quelle touche pour fermer la fenêtre.</G2dExit>
 	</Messages>
 
   </Graph2D>

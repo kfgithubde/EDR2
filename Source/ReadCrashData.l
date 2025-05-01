@@ -39,6 +39,7 @@
 
  /* Start state = <INITIAL> for all files */
 
+<INITIAL>"["[0-9]+"]" {} // Skip [nn]_ in Bosch CDR V23
 <INITIAL>[-+]?([0-9]*\.?[0-9]+|[0-9]+\.)([Ee][-+]?[0-9]+)?[,]? {return NUMBER;}
 
  /* Start states for MME files */

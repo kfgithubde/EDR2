@@ -13,8 +13,10 @@ if /I "%1%" neq "WX" goto NoWX
  copy EDR2config_FullTemplate.xml ..\bin\EDR2config_FullTemplate.xml
  copy EDR2UserInit-de.xml ..\bin\EDR2UserInit-de.xml
  copy EDR2-de.mo ..\bin\de\EDR2.mo
- copy EDR2UserInit-de.xml ..\bin\EDR2UserInit-fr.xml
+ copy EDR2UserInit-fr.xml ..\bin\EDR2UserInit-fr.xml
  copy EDR2-fr.mo ..\bin\fr\EDR2.mo
+ copy EDR2UserInit-es.xml ..\bin\EDR2UserInit-es.xml
+ copy EDR2-es.mo ..\bin\es\EDR2.mo
  goto done
 
 :NoWX
