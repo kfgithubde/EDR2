@@ -7,11 +7,7 @@
 		<Option compiler="gcc" />
 		<Option show_notes="0">
 			<notes>
-				<![CDATA[ToDo:
-- Spanische Übersetzung (auch Erwähnung in ReadMe.md)
-
-
-Die Debug-Programmausgaben über printf während des Einlesens werden in Windows nicht ausgegeben (auch bei Start über die Kommandoconsole).  Im Debugger erscheinen die Ausgaben im Debug-Fenster. 
+				<![CDATA[Die Debug-Programmausgaben über printf während des Einlesens werden in Windows nicht ausgegeben (auch bei Start über die Kommandoconsole).  Im Debugger erscheinen die Ausgaben im Debug-Fenster. 
 Alternative: Start über eine MSYS2 Console:
 $ cd /c/Users/ebb3494/Documents/Sources/EDR2_pre023/EDR2
 $ ./EDR2.exe
@@ -24,7 +20,9 @@ Die eingelesenen Vektoren MMEx, EDRx behalten die Einheiten der Eingabedateien. 
 MME-Dateien: Zeit (= t0 + Deltat) immer in Sekunden, y-Einheit wird eingelesen
 EDR-Dateien: ms, g und km/h fest vorgegeben und zur Auswertung der CSV-Dateien verwendet. Falls die Konvention in der Ausgabedatei geändert werden sollte, muss das Programm entsprechend erweitert werden (zusätzliche Match-Klausel in ReadCrashData.l und entsprechende Anpassung bei den Actionblöcken RDWHAT
 
-ReadCrashData: Eine Routine sowohl für EDR als auch MME. Die EDR-Daten werden direkt in den  Commonblock geschrieben, die MME-Daten schreiben auch in den Commonblock, aber über den Umweg der Argumente xDatArr, yDatArr. So wird durch die aufrufende Routine ReadCrashData mitgeteilt welche Achse über die Datei eingelesen wird.  
+ReadCrashData: Eine Routine sowohl für EDR als auch MME. Die EDR-Daten werden direkt in den  Commonblock geschrieben, die MME-Daten schreiben auch in den Commonblock, aber über den Umweg der Argumente xDatArr, yDatArr. So wird durch die aufrufende Routine ReadCrashData mitgeteilt welche Achse über die Datei eingelesen wird. 
+
+Die maximale Anzahl der eingelesenen Datenpunkte wird durch die Parameter iLe (derzeit 200, bei einer typische Anzahl im Unfalldatenschreiber von 25) für die EDR-Daten und iLi (derzeit 10000) für die Crashdaten. Falls die Anzahl der MME-daten iLi überschreitet mehrere Datenpunkte als arithmetisches Mittel zusammengefasst. Bei sehr stark verrauschten Signalen können sich dadurch jedoch Aliasing-Fehler bei der Integration der Geschwindigkeit ergeben. Bei dem derzeitigen Wert von 10000 können nach dem Nyquist-Abtasttheorem bei einer Filterfrequenz von 4 kHz ca. 1 Sekunde Daten abgespeichert werden.
 
 Definition der Defaults:
 Record to Use, ScaleFactorX,Y,Z, Ploteinheiten und Grenzkurve in EDR2frame.wxs

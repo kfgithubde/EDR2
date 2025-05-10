@@ -134,7 +134,7 @@ char *TokenString; // pointer for substrings
         nVal--;
         if (nVal < 0) {
           if (nDropVal>0) { // arithmetic mean
-            yDatArr[( (int)xDatArr[0])] = yDatArr[( (int)xDatArr[0])] / (float)nDropVal;
+            yDatArr[( (int)xDatArr[0])] = yDatArr[( (int)xDatArr[0])] / (float)(nDropVal+1);
           }
           xDatArr[0]++;
           xDatArr[( (int)xDatArr[0])]= xDatArr[( (int)xDatArr[0])-1];
@@ -255,6 +255,7 @@ char *TokenString; // pointer for substrings
         d2= atof (yytext);
         switch (axis) {
           case LONGITUDINAL:
+            if ((int)edrinput_.txEDR[0] >= iLe) {fclose (f); return;} // avoid buffer overflow
             edrinput_.txEDR[0]++;
             edrinput_.txEDR[((int)edrinput_.txEDR[0])]= d1;
             switch (TypeDat2) {
@@ -269,6 +270,7 @@ char *TokenString; // pointer for substrings
             }
             break;
           case LATERAL:
+            if ((int)edrinput_.tyEDR[0] >= iLe) {fclose (f); return;} // avoid buffer overflow
             edrinput_.tyEDR[0]++;
             edrinput_.tyEDR[(int)edrinput_.tyEDR[0]]= d1;
             switch (TypeDat2) {
@@ -283,6 +285,7 @@ char *TokenString; // pointer for substrings
             }
             break;
           case NORMAL:
+            if ((int)edrinput_.tzEDR[0] >= iLe) {fclose (f); return;} // avoid buffer overflow
             edrinput_.tzEDR[0]++;
             edrinput_.tzEDR[(int)edrinput_.tzEDR[0]]= d1;
             switch (TypeDat2) {
@@ -311,6 +314,7 @@ char *TokenString; // pointer for substrings
 
         switch (axis) {
           case LONGITUDINAL:
+            if ((int)edrinput_.txEDR[0] >= iLe) {fclose (f); return;} // avoid buffer overflow
             edrinput_.txEDR[0]++;
             edrinput_.txEDR[((int)edrinput_.txEDR[0])]= d1;
             switch (TypeDat2) {
@@ -335,7 +339,8 @@ char *TokenString; // pointer for substrings
             }
             break;
           case LATERAL:
-            edrinput_.tyEDR[0]++;
+           if ((int)edrinput_.tyEDR[0] >= iLe) {fclose (f); return;} // avoid buffer overflow
+           edrinput_.tyEDR[0]++;
             edrinput_.tyEDR[(int)edrinput_.tyEDR[0]]= d1;
             switch (TypeDat2) {
               case VELOCITY:
@@ -359,6 +364,7 @@ char *TokenString; // pointer for substrings
             }
             break;
           case NORMAL:
+            if ((int)edrinput_.tzEDR[0] >= iLe) {fclose (f); return;} // avoid buffer overflow
             edrinput_.tzEDR[0]++;
             edrinput_.tzEDR[(int)edrinput_.tzEDR[0]]= d1;
             switch (TypeDat2) {

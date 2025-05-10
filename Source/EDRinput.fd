@@ -1,6 +1,6 @@
 !> \file EDRinput.fd
 !> \brief Common Block EDRINPUT
-!> \version 1.2
+!> \version 1.3
 !> \author  Dr.-Ing. Klaus Friedewald
 !> \~german
 !> Header passend zu EDRinput.hpp. Das Quelltextformat ist sowohl zum FTN77 Fixed
@@ -8,6 +8,10 @@
 !> \n
 !> Bei Einlesen von EDR-Daten muss vor dem Aufruf von ReadCrashData() nEDRrec gesetzt werden.
 !> Nach dem Einlesen sind die Einheiten in MMEunit? bzw. EDRunit? abgespeichert.
+!> \n
+!> iLi (Anzahl der abgespeicherten MME-Datenpunkte) sollte größer als
+!> (Aufzeichnugszeitraum)/(Abtastintervall) sein, damit Aliasingeffekte
+!> sicher vermieden werden.
 !> \note
 !> Da die folgende Definition kein Bestandteil eines Moduls
 !> ist, versagt der DOXYGEN-Parser bei der Kombination von
@@ -19,6 +23,9 @@
 !> Before calling ReadCrashData() in order to read EDR-data nEDRrec has to be set.
 !> After processing the units, declared in the input files, are stored in
 !> MMEunit? respectively EDRunit?
+!> \n
+!> To avoid aliasing effects the parameter iLi (number of stored MME data points)
+!> should be greater than (recording interval)/(sampling intervall)
 !> \note
 !> Because the following definition not being part of a module, the
 !> DOXYGEN parser is not able to handle the combination of COMMON
@@ -28,11 +35,11 @@
       use iso_c_binding
       implicit none
 
-      integer iLe     ! max. Anzahl Stuetzstellen in EDR-Dateien
-      integer iLi     ! max. Anzahl der abgespecherten Stuetzstellen in ISO/MME-Dateien
-      integer lablen  ! max. Laenge der Label
+      integer iLe     ! max. amount of stored EDR datapoints
+      integer iLi     ! max. amount of stored ISO-MME datapoints
+      integer lablen  ! max. length of labelstrings
 
-      parameter (iLe = 100, iLi=1000, lablen=80)
+      parameter (iLe = 200, iLi=20000, lablen=80) ! Do not forget EDRinput.hpp
 
       integer (c_int) nMME ! In ISO-MME announced number of samples
       real (c_float) dtMME, tStartMME ! ISO-MME time intervall

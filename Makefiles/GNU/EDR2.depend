@@ -2665,19 +2665,19 @@
 	<wx/statusbr.h>
 	<wx/textctrl.h>
 
-1526896708 source:c:\users\ebb3494\documents\sources\edr\build\butterworthtime.for
+1526900308 source:c:\users\ebb3494\documents\sources\edr\build\butterworthtime.for
 
-1744374124 source:c:\users\ebb3494\documents\sources\edr\build\edrplot.f08
+1744443544 source:c:\users\ebb3494\documents\sources\edr\build\edrplot.f08
 
-1687949212 source:c:\users\ebb3494\documents\sources\edr\build\edr2app.cpp
+1687952812 source:c:\users\ebb3494\documents\sources\edr\build\edr2app.cpp
 	"EDR2App.h"
 	"EDR2Main.h"
 	<wx/image.h>
 
-1687949212 c:\users\ebb3494\documents\sources\edr\build\edr2app.h
+1687952812 c:\users\ebb3494\documents\sources\edr\build\edr2app.h
 	<wx/app.h>
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\app.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\app.h
 	"wx/event.h"
 	"wx/eventfilter.h"
 	"wx/build.h"
@@ -2696,7 +2696,7 @@
 	"wx/qt/app.h"
 	"wx/univ/theme.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\event.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\event.h
 	"wx/defs.h"
 	"wx/cpp.h"
 	"wx/object.h"
@@ -2714,7 +2714,7 @@
 	"wx/meta/convertible.h"
 	"wx/meta/removeref.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\defs.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\defs.h
 	"wx/msw/winundef.h"
 	"wx/platform.h"
 	"wx/version.h"
@@ -2726,9 +2726,9 @@
 	"wx/qt/defs.h"
 	"wx/features.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\msw\winundef.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\msw\winundef.h
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\platform.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\platform.h
 	<unistd.h>
 	<TargetConditionals.h>
 	<Availability.h>
@@ -2741,22 +2741,22 @@
 	<Availability.h>
 	"wx/chkconf.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\android\config_android.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\android\config_android.h
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\compiler.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\compiler.h
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\lib\gcc_lib\mswu\wx\setup.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\lib\gcc_lib\mswu\wx\setup.h
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\msw\libraries.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\msw\libraries.h
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\msw\gccpriv.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\msw\gccpriv.h
 	"wx/msw/winver.h"
 	<_mingw.h>
 	<w32api.h>
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\msw\winver.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\msw\winver.h
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\chkconf.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\chkconf.h
 	"wx/msw/chkconf.h"
 	"wx/gtk/chkconf.h"
 	"wx/gtk/chkconf.h"
@@ -2768,51 +2768,51 @@
 	"wx/unix/chkconf.h"
 	"wx/univ/chkconf.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\msw\chkconf.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\msw\chkconf.h
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\gtk\chkconf.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\gtk\chkconf.h
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\osx\chkconf.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\osx\chkconf.h
 	"wx/osx/iphone/chkconf.h"
 	"wx/osx/cocoa/chkconf.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\osx\iphone\chkconf.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\osx\iphone\chkconf.h
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\osx\cocoa\chkconf.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\osx\cocoa\chkconf.h
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\dfb\chkconf.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\dfb\chkconf.h
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\motif\chkconf.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\motif\chkconf.h
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\x11\chkconf.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\x11\chkconf.h
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\android\chkconf.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\android\chkconf.h
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\unix\chkconf.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\unix\chkconf.h
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\univ\chkconf.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\univ\chkconf.h
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\version.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\version.h
 	"wx/cpp.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\cpp.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\cpp.h
 	"wx/compiler.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\dlimpexp.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\dlimpexp.h
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\types.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\types.h
 	"wx/platform.h"
 	<sys/types.h>
 	<sys/types.h>
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\debug.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\debug.h
 	<assert.h>
 	<limits.h>
 	"wx/chartype.h"
 	"wx/cpp.h"
 	"wx/dlimpexp.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\chartype.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\chartype.h
 	"wx/types.h"
 	<sys/types.h>
 	<wchar.h>
@@ -2825,24 +2825,24 @@
 	<tchar.h>
 	<ctype.h>
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\qt\defs.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\qt\defs.h
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\features.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\features.h
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\object.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\object.h
 	"wx/memory.h"
 	"wx/xti.h"
 	"wx/rtti.h"
 	"wx/xti2.h"
 	"wx/msw/msvcrt.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\memory.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\memory.h
 	"wx/defs.h"
 	"wx/string.h"
 	"wx/msgout.h"
 	<stddef.h>
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\string.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\string.h
 	"wx/defs.h"
 	<ctype.h>
 	<string.h>
@@ -2862,7 +2862,7 @@
 	"wx/iosfwrap.h"
 	"wx/crt.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\wxcrtbase.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\wxcrtbase.h
 	"wx/chartype.h"
 	<stdio.h>
 	<string.h>
@@ -2871,7 +2871,7 @@
 	<time.h>
 	<io.h>
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\strvararg.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\strvararg.h
 	"wx/platform.h"
 	"wx/cpp.h"
 	"wx/chartype.h"
@@ -2883,28 +2883,28 @@
 	<tr1/type_traits>
 	"wx/stringimpl.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\strconv.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\strconv.h
 	"wx/defs.h"
 	"wx/chartype.h"
 	"wx/buffer.h"
 	<stdlib.h>
 	"wx/fontenc.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\buffer.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\buffer.h
 	"wx/defs.h"
 	"wx/wxcrtbase.h"
 	<stdlib.h>
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\fontenc.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\fontenc.h
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\unichar.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\unichar.h
 	"wx/defs.h"
 	"wx/chartype.h"
 	"wx/stringimpl.h"
 	<algorithm>
 	<utility>
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\stringimpl.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\stringimpl.h
 	"wx/defs.h"
 	"wx/chartype.h"
 	"wx/wxcrtbase.h"
@@ -2913,39 +2913,39 @@
 	<string>
 	"wx/afterstd.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\beforestd.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\beforestd.h
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\afterstd.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\afterstd.h
 	"wx/msw/winundef.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\stringops.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\stringops.h
 	"wx/chartype.h"
 	"wx/stringimpl.h"
 	"wx/unichar.h"
 	"wx/buffer.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\tls.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\tls.h
 	"wx/defs.h"
 	"wx/msw/tls.h"
 	"wx/unix/tls.h"
 	<stdlib.h>
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\msw\tls.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\msw\tls.h
 	"wx/msw/wrapwin.h"
 	"wx/thread.h"
 	"wx/vector.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\msw\wrapwin.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\msw\wrapwin.h
 	"wx/platform.h"
 	"wx/msw/winver.h"
 	<winsock2.h>
 	<windows.h>
 	"wx/msw/winundef.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\thread.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\thread.h
 	"wx/defs.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\vector.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\vector.h
 	"wx/defs.h"
 	<vector>
 	<algorithm>
@@ -2957,58 +2957,58 @@
 	<new>
 	"wx/afterstd.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\scopeguard.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\scopeguard.h
 	"wx/defs.h"
 	"wx/except.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\except.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\except.h
 	"wx/defs.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\meta\movable.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\meta\movable.h
 	"wx/meta/pod.h"
 	"wx/string.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\meta\pod.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\meta\pod.h
 	"wx/defs.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\meta\if.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\meta\if.h
 	"wx/defs.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\unix\tls.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\unix\tls.h
 	<pthread.h>
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\iosfwrap.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\iosfwrap.h
 	<iosfwd>
 	"wx/msw/winundef.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\crt.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\crt.h
 	"wx/defs.h"
 	"wx/chartype.h"
 	"wx/wxcrt.h"
 	"wx/wxcrtvararg.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\wxcrt.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\wxcrt.h
 	"wx/wxcrtbase.h"
 	"wx/string.h"
 	<string.h>
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\wxcrtvararg.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\wxcrtvararg.h
 	"wx/wxcrt.h"
 	"wx/strvararg.h"
 	"wx/string.h"
 	<stdarg.h>
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\msgout.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\msgout.h
 	"wx/defs.h"
 	"wx/chartype.h"
 	"wx/strvararg.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\xti.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\xti.h
 	"wx/defs.h"
 	"wx/xtitypes.h"
 	"wx/xtihandler.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\xtitypes.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\xtitypes.h
 	"wx/defs.h"
 	"wx/string.h"
 	"wx/hashmap.h"
@@ -3018,7 +3018,7 @@
 	"wx/log.h"
 	<typeinfo>
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\hashmap.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\hashmap.h
 	"wx/string.h"
 	"wx/wxcrt.h"
 	<unordered_map>
@@ -3027,7 +3027,7 @@
 	<hash_map>
 	<stddef.h>
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\arrstr.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\arrstr.h
 	"wx/defs.h"
 	"wx/string.h"
 	"wx/dynarray.h"
@@ -3036,20 +3036,20 @@
 	<iterator>
 	"wx/afterstd.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\dynarray.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\dynarray.h
 	"wx/defs.h"
 	"wx/vector.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\flags.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\flags.h
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\intl.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\intl.h
 	"wx/defs.h"
 	"wx/string.h"
 	"wx/translation.h"
 	"wx/fontenc.h"
 	"wx/language.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\translation.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\translation.h
 	"wx/defs.h"
 	"wx/string.h"
 	"wx/buffer.h"
@@ -3058,17 +3058,17 @@
 	"wx/strconv.h"
 	"wx/scopedptr.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\language.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\language.h
 	"wx/defs.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\scopedptr.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\scopedptr.h
 	"wx/defs.h"
 	"wx/checkeddelete.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\checkeddelete.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\checkeddelete.h
 	"wx/cpp.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\log.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\log.h
 	"wx/defs.h"
 	"wx/cpp.h"
 	"wx/string.h"
@@ -3083,10 +3083,10 @@
 	"wx/iosfwrap.h"
 	"wx/generic/logg.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\time.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\time.h
 	"wx/longlong.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\longlong.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\longlong.h
 	"wx/defs.h"
 	"wx/string.h"
 	<limits.h>
@@ -3094,26 +3094,26 @@
 	<limits>
 	"wx/strvararg.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\generic\logg.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\generic\logg.h
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\xtihandler.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\xtihandler.h
 	"wx/defs.h"
 	"wx/xti.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\rtti.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\rtti.h
 	"wx/memory.h"
 	"wx/flags.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\xti2.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\xti2.h
 	"wx/xtiprop.h"
 	"wx/xtictor.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\xtiprop.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\xtiprop.h
 	"wx/defs.h"
 	"wx/xti.h"
 	"wx/any.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\any.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\any.h
 	"wx/defs.h"
 	<new>
 	"wx/string.h"
@@ -3123,12 +3123,12 @@
 	"wx/datetime.h"
 	"wx/variant.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\typeinfo.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\typeinfo.h
 	"wx/defs.h"
 	<typeinfo>
 	<string.h>
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\list.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\list.h
 	"wx/defs.h"
 	"wx/object.h"
 	"wx/string.h"
@@ -3140,7 +3140,7 @@
 	"wx/afterstd.h"
 	<iterator>
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\datetime.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\datetime.h
 	"wx/defs.h"
 	<time.h>
 	<limits.h>
@@ -3148,10 +3148,10 @@
 	"wx/anystr.h"
 	"wx/dynarray.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\anystr.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\anystr.h
 	"wx/string.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\variant.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\variant.h
 	"wx/defs.h"
 	"wx/object.h"
 	"wx/string.h"
@@ -3163,27 +3163,27 @@
 	"wx/iosfwrap.h"
 	"wx/any.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\xtictor.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\xtictor.h
 	"wx/defs.h"
 	"wx/xti.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\msw\msvcrt.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\msw\msvcrt.h
 	<stdlib.h>
 	<crtdbg.h>
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\clntdata.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\clntdata.h
 	"wx/defs.h"
 	"wx/string.h"
 	"wx/hashmap.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\math.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\math.h
 	"wx/defs.h"
 	<math.h>
 	<cmath>
 	<float.h>
 	<ieeefp.h>
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\gdicmn.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\gdicmn.h
 	"wx/defs.h"
 	"wx/list.h"
 	"wx/string.h"
@@ -3191,7 +3191,7 @@
 	"wx/hashmap.h"
 	"wx/math.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\cursor.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\cursor.h
 	"wx/gdiobj.h"
 	"wx/gdicmn.h"
 	"wx/msw/gdiimage.h"
@@ -3205,26 +3205,26 @@
 	"wx/qt/cursor.h"
 	"wx/utils.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\gdiobj.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\gdiobj.h
 	"wx/object.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\msw\gdiimage.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\msw\gdiimage.h
 	"wx/gdiobj.h"
 	"wx/gdicmn.h"
 	"wx/list.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\msw\cursor.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\msw\cursor.h
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\motif\cursor.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\motif\cursor.h
 	"wx/gdicmn.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\gtk\cursor.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\gtk\cursor.h
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\gtk1\cursor.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\gtk1\cursor.h
 	"wx/gdicmn.h"
 	"wx/image.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\image.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\image.h
 	"wx/defs.h"
 	"wx/object.h"
 	"wx/string.h"
@@ -3244,14 +3244,14 @@
 	"wx/imagxpm.h"
 	"wx/imagiff.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\stream.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\stream.h
 	"wx/defs.h"
 	<stdio.h>
 	"wx/object.h"
 	"wx/string.h"
 	"wx/filefn.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\filefn.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\filefn.h
 	"wx/list.h"
 	"wx/arrstr.h"
 	<time.h>
@@ -3265,49 +3265,49 @@
 	<fcntl.h>
 	<sys/types.h>
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\imagbmp.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\imagbmp.h
 	"wx/image.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\imagpng.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\imagpng.h
 	"wx/defs.h"
 	"wx/image.h"
 	"wx/versioninfo.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\versioninfo.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\versioninfo.h
 	"wx/string.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\imaggif.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\imaggif.h
 	"wx/image.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\imagpcx.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\imagpcx.h
 	"wx/image.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\imagjpeg.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\imagjpeg.h
 	"wx/defs.h"
 	"wx/image.h"
 	"wx/versioninfo.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\imagtga.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\imagtga.h
 	"wx/image.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\imagtiff.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\imagtiff.h
 	"wx/defs.h"
 	"wx/image.h"
 	"wx/versioninfo.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\imagpnm.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\imagpnm.h
 	"wx/image.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\imagxpm.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\imagxpm.h
 	"wx/image.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\imagiff.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\imagiff.h
 	"wx/image.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\x11\cursor.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\x11\cursor.h
 	"wx/colour.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\colour.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\colour.h
 	"wx/defs.h"
 	"wx/gdiobj.h"
 	"wx/variant.h"
@@ -3320,23 +3320,23 @@
 	"wx/osx/colour.h"
 	"wx/qt/colour.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\msw\colour.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\msw\colour.h
 	"wx/object.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\motif\colour.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\motif\colour.h
 	"wx/object.h"
 	"wx/string.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\gtk\colour.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\gtk\colour.h
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\gtk1\colour.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\gtk1\colour.h
 	"wx/defs.h"
 	"wx/object.h"
 	"wx/string.h"
 	"wx/gdiobj.h"
 	"wx/palette.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\palette.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\palette.h
 	"wx/defs.h"
 	"wx/object.h"
 	"wx/gdiobj.h"
@@ -3346,53 +3346,53 @@
 	"wx/osx/palette.h"
 	"wx/qt/palette.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\msw\palette.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\msw\palette.h
 	"wx/gdiobj.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\x11\palette.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\x11\palette.h
 	"wx/list.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\generic\paletteg.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\generic\paletteg.h
 	"wx/defs.h"
 	"wx/object.h"
 	"wx/gdiobj.h"
 	"wx/gdicmn.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\osx\palette.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\osx\palette.h
 	"wx/gdiobj.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\qt\palette.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\qt\palette.h
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\generic\colour.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\generic\colour.h
 	"wx/object.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\x11\colour.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\x11\colour.h
 	"wx/defs.h"
 	"wx/object.h"
 	"wx/string.h"
 	"wx/gdiobj.h"
 	"wx/palette.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\osx\colour.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\osx\colour.h
 	"wx/osx/core/colour.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\osx\core\colour.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\osx\core\colour.h
 	"wx/object.h"
 	"wx/string.h"
 	"wx/osx/core/cfref.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\osx\core\cfref.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\osx\core\cfref.h
 	<unistd.h>
 	<Availability.h>
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\qt\colour.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\qt\colour.h
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\dfb\cursor.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\dfb\cursor.h
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\osx\cursor.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\osx\cursor.h
 	"wx/bitmap.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\bitmap.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\bitmap.h
 	"wx/string.h"
 	"wx/gdicmn.h"
 	"wx/colour.h"
@@ -3408,43 +3408,43 @@
 	"wx/qt/bitmap.h"
 	"wx/generic/mask.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\msw\bitmap.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\msw\bitmap.h
 	"wx/msw/gdiimage.h"
 	"wx/math.h"
 	"wx/palette.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\x11\bitmap.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\x11\bitmap.h
 	"wx/defs.h"
 	"wx/object.h"
 	"wx/string.h"
 	"wx/palette.h"
 	"wx/gdiobj.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\gtk\bitmap.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\gtk\bitmap.h
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\gtk1\bitmap.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\gtk1\bitmap.h
 	"wx/defs.h"
 	"wx/object.h"
 	"wx/string.h"
 	"wx/palette.h"
 	"wx/gdiobj.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\dfb\bitmap.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\dfb\bitmap.h
 	"wx/dfb/dfbptr.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\dfb\dfbptr.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\dfb\dfbptr.h
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\osx\bitmap.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\osx\bitmap.h
 	"wx/palette.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\qt\bitmap.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\qt\bitmap.h
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\generic\mask.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\generic\mask.h
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\qt\cursor.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\qt\cursor.h
 	"wx/image.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\utils.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\utils.h
 	"wx/object.h"
 	"wx/list.h"
 	"wx/filefn.h"
@@ -3460,52 +3460,52 @@
 	<unistd.h>
 	<stdio.h>
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\meta\implicitconversion.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\meta\implicitconversion.h
 	"wx/defs.h"
 	"wx/meta/if.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\mousestate.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\mousestate.h
 	"wx/gdicmn.h"
 	"wx/kbdstate.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\kbdstate.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\kbdstate.h
 	"wx/defs.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\platinfo.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\platinfo.h
 	"wx/string.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\tracker.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\tracker.h
 	"wx/defs.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\meta\convertible.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\meta\convertible.h
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\meta\removeref.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\meta\removeref.h
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\eventfilter.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\eventfilter.h
 	"wx/defs.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\build.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\build.h
 	"wx/version.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\cmdargs.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\cmdargs.h
 	"wx/arrstr.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\init.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\init.h
 	"wx/defs.h"
 	"wx/chartype.h"
 	"wx/msw/init.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\msw\init.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\msw\init.h
 	"wx/msw/wrapwin.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\unix\app.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\unix\app.h
 	<signal.h>
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\msw\app.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\msw\app.h
 	"wx/event.h"
 	"wx/icon.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\icon.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\icon.h
 	"wx/iconloc.h"
 	"wx/msw/icon.h"
 	"wx/motif/icon.h"
@@ -3518,36 +3518,36 @@
 	"wx/generic/icon.h"
 	"wx/variant.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\iconloc.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\iconloc.h
 	"wx/string.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\msw\icon.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\msw\icon.h
 	"wx/msw/gdiimage.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\motif\icon.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\motif\icon.h
 	"wx/bitmap.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\generic\icon.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\generic\icon.h
 	"wx/bitmap.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\motif\app.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\motif\app.h
 	"wx/event.h"
 	"wx/hashmap.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\dfb\app.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\dfb\app.h
 	"wx/dfb/dfbptr.h"
 	"wx/vidmode.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\vidmode.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\vidmode.h
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\gtk\app.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\gtk\app.h
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\gtk1\app.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\gtk1\app.h
 	"wx/frame.h"
 	"wx/icon.h"
 	"wx/strconv.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\frame.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\frame.h
 	"wx/toplevel.h"
 	"wx/statusbr.h"
 	"wx/univ/frame.h"
@@ -3558,7 +3558,7 @@
 	"wx/osx/frame.h"
 	"wx/qt/frame.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\toplevel.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\toplevel.h
 	"wx/nonownedwnd.h"
 	"wx/iconbndl.h"
 	"wx/weakref.h"
@@ -3572,7 +3572,7 @@
 	"wx/qt/toplevel.h"
 	"wx/univ/toplevel.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\nonownedwnd.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\nonownedwnd.h
 	"wx/window.h"
 	"wx/dfb/nonownedwnd.h"
 	"wx/gtk/nonownedwnd.h"
@@ -3580,7 +3580,7 @@
 	"wx/msw/nonownedwnd.h"
 	"wx/qt/nonownedwnd.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\window.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\window.h
 	"wx/event.h"
 	"wx/list.h"
 	"wx/cursor.h"
@@ -3604,7 +3604,7 @@
 	"wx/qt/window.h"
 	"wx/univ/window.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\font.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\font.h
 	"wx/defs.h"
 	"wx/fontenc.h"
 	"wx/gdiobj.h"
@@ -3619,31 +3619,31 @@
 	"wx/osx/font.h"
 	"wx/qt/font.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\msw\font.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\msw\font.h
 	"wx/gdicmn.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\motif\font.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\motif\font.h
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\gtk\font.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\gtk\font.h
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\gtk1\font.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\gtk1\font.h
 	"wx/hash.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\hash.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\hash.h
 	"wx/defs.h"
 	"wx/string.h"
 	"wx/object.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\x11\font.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\x11\font.h
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\dfb\font.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\dfb\font.h
 	"wx/dfb/dfbptr.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\osx\font.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\osx\font.h
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\qt\font.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\qt\font.h
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\region.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\region.h
 	"wx/gdiobj.h"
 	"wx/gdicmn.h"
 	"wx/msw/region.h"
@@ -3654,37 +3654,37 @@
 	"wx/osx/region.h"
 	"wx/qt/region.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\msw\region.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\msw\region.h
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\gtk\region.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\gtk\region.h
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\gtk1\region.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\gtk1\region.h
 	"wx/list.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\x11\region.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\x11\region.h
 	"wx/list.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\dfb\region.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\dfb\region.h
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\osx\region.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\osx\region.h
 	"wx/osx/carbon/region.h"
 	"wx/generic/region.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\osx\carbon\region.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\osx\carbon\region.h
 	"wx/list.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\generic\region.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\generic\region.h
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\qt\region.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\qt\region.h
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\validate.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\validate.h
 	"wx/defs.h"
 	"wx/event.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\windowid.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\windowid.h
 	"wx/defs.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\accel.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\accel.h
 	"wx/defs.h"
 	"wx/object.h"
 	"wx/generic/accel.h"
@@ -3695,61 +3695,61 @@
 	"wx/osx/accel.h"
 	"wx/qt/accel.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\generic\accel.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\generic\accel.h
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\msw\accel.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\msw\accel.h
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\motif\accel.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\motif\accel.h
 	"wx/object.h"
 	"wx/string.h"
 	"wx/event.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\gtk\accel.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\gtk\accel.h
 	"wx/generic/accel.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\gtk1\accel.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\gtk1\accel.h
 	"wx/generic/accel.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\osx\accel.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\osx\accel.h
 	"wx/string.h"
 	"wx/event.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\qt\accel.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\qt\accel.h
 	"wx/vector.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\access.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\access.h
 	"wx/defs.h"
 	"wx/variant.h"
 	"wx/msw/ole/access.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\msw\ole\access.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\msw\ole\access.h
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\msw\window.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\msw\window.h
 	"wx/settings.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\settings.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\settings.h
 	"wx/colour.h"
 	"wx/font.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\motif\window.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\motif\window.h
 	"wx/region.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\gtk\window.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\gtk\window.h
 	"wx/dynarray.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\gtk1\window.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\gtk1\window.h
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\x11\window.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\x11\window.h
 	"wx/region.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\dfb\window.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\dfb\window.h
 	"wx/dfb/dfbptr.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\osx\window.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\osx\window.h
 	"wx/brush.h"
 	"wx/dc.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\brush.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\brush.h
 	"wx/defs.h"
 	"wx/object.h"
 	"wx/gdiobj.h"
@@ -3762,35 +3762,35 @@
 	"wx/osx/brush.h"
 	"wx/qt/brush.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\msw\brush.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\msw\brush.h
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\x11\brush.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\x11\brush.h
 	"wx/gdiobj.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\gtk\brush.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\gtk\brush.h
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\gtk1\brush.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\gtk1\brush.h
 	"wx/defs.h"
 	"wx/object.h"
 	"wx/string.h"
 	"wx/gdiobj.h"
 	"wx/bitmap.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\dfb\brush.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\dfb\brush.h
 	"wx/defs.h"
 	"wx/object.h"
 	"wx/string.h"
 	"wx/gdiobj.h"
 	"wx/bitmap.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\osx\brush.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\osx\brush.h
 	"wx/gdicmn.h"
 	"wx/gdiobj.h"
 	"wx/bitmap.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\qt\brush.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\qt\brush.h
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\dc.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\dc.h
 	"wx/object.h"
 	"wx/intl.h"
 	"wx/colour.h"
@@ -3805,7 +3805,7 @@
 	"wx/region.h"
 	"wx/affinematrix2d.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\pen.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\pen.h
 	"wx/gdiobj.h"
 	"wx/peninfobase.h"
 	"wx/msw/pen.h"
@@ -3816,72 +3816,72 @@
 	"wx/osx/pen.h"
 	"wx/qt/pen.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\peninfobase.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\peninfobase.h
 	"wx/bitmap.h"
 	"wx/colour.h"
 	"wx/gdicmn.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\msw\pen.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\msw\pen.h
 	"wx/gdiobj.h"
 	"wx/gdicmn.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\x11\pen.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\x11\pen.h
 	"wx/gdicmn.h"
 	"wx/gdiobj.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\gtk\pen.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\gtk\pen.h
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\gtk1\pen.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\gtk1\pen.h
 	"wx/defs.h"
 	"wx/object.h"
 	"wx/string.h"
 	"wx/gdiobj.h"
 	"wx/gdicmn.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\dfb\pen.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\dfb\pen.h
 	"wx/defs.h"
 	"wx/object.h"
 	"wx/string.h"
 	"wx/gdiobj.h"
 	"wx/gdicmn.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\osx\pen.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\osx\pen.h
 	"wx/gdiobj.h"
 	"wx/colour.h"
 	"wx/bitmap.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\qt\pen.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\qt\pen.h
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\affinematrix2d.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\affinematrix2d.h
 	"wx/defs.h"
 	"wx/affinematrix2dbase.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\affinematrix2dbase.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\affinematrix2dbase.h
 	"wx/defs.h"
 	"wx/geometry.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\geometry.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\geometry.h
 	"wx/defs.h"
 	"wx/utils.h"
 	"wx/gdicmn.h"
 	"wx/math.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\qt\window.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\qt\window.h
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\univ\window.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\univ\window.h
 	"wx/bitmap.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\dfb\nonownedwnd.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\dfb\nonownedwnd.h
 	"wx/window.h"
 	"wx/dfb/dfbptr.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\gtk\nonownedwnd.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\gtk\nonownedwnd.h
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\osx\nonownedwnd.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\osx\nonownedwnd.h
 	"wx/window.h"
 	"wx/graphics.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\graphics.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\graphics.h
 	"wx/defs.h"
 	"wx/affinematrix2d.h"
 	"wx/geometry.h"
@@ -3892,53 +3892,53 @@
 	"wx/peninfobase.h"
 	"wx/vector.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\msw\nonownedwnd.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\msw\nonownedwnd.h
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\qt\nonownedwnd.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\qt\nonownedwnd.h
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\iconbndl.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\iconbndl.h
 	"wx/gdiobj.h"
 	"wx/gdicmn.h"
 	"wx/icon.h"
 	"wx/dynarray.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\weakref.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\weakref.h
 	"wx/tracker.h"
 	"wx/meta/convertible.h"
 	"wx/meta/int2type.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\meta\int2type.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\meta\int2type.h
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\msw\toplevel.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\msw\toplevel.h
 	"wx/weakref.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\gtk\toplevel.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\gtk\toplevel.h
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\gtk1\toplevel.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\gtk1\toplevel.h
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\x11\toplevel.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\x11\toplevel.h
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\dfb\toplevel.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\dfb\toplevel.h
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\osx\toplevel.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\osx\toplevel.h
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\motif\toplevel.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\motif\toplevel.h
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\qt\toplevel.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\qt\toplevel.h
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\univ\toplevel.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\univ\toplevel.h
 	"wx/univ/inpcons.h"
 	"wx/univ/inphand.h"
 	"wx/icon.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\univ\inpcons.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\univ\inpcons.h
 	"wx/object.h"
 	"wx/event.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\univ\inphand.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\univ\inphand.h
 	"wx/univ/inpcons.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\statusbr.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\statusbr.h
 	"wx/defs.h"
 	"wx/control.h"
 	"wx/list.h"
@@ -3950,7 +3950,7 @@
 	"wx/qt/statusbar.h"
 	"wx/generic/statusbr.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\control.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\control.h
 	"wx/defs.h"
 	"wx/window.h"
 	"wx/gdicmn.h"
@@ -3962,39 +3962,39 @@
 	"wx/osx/control.h"
 	"wx/qt/control.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\univ\control.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\univ\control.h
 	"wx/univ/inphand.h"
 	"wx/univ/inpcons.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\msw\control.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\msw\control.h
 	"wx/dynarray.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\motif\control.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\motif\control.h
 	"wx/window.h"
 	"wx/list.h"
 	"wx/validate.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\gtk\control.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\gtk\control.h
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\gtk1\control.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\gtk1\control.h
 	"wx/defs.h"
 	"wx/object.h"
 	"wx/list.h"
 	"wx/window.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\osx\control.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\osx\control.h
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\qt\control.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\qt\control.h
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\univ\statusbr.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\univ\statusbr.h
 	"wx/univ/inpcons.h"
 	"wx/arrstr.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\msw\statusbar.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\msw\statusbar.h
 	"wx/vector.h"
 	"wx/tooltip.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\tooltip.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\tooltip.h
 	"wx/defs.h"
 	"wx/msw/tooltip.h"
 	"wx/gtk/tooltip.h"
@@ -4002,52 +4002,52 @@
 	"wx/osx/tooltip.h"
 	"wx/qt/tooltip.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\msw\tooltip.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\msw\tooltip.h
 	"wx/object.h"
 	"wx/gdicmn.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\gtk\tooltip.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\gtk\tooltip.h
 	"wx/string.h"
 	"wx/object.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\gtk1\tooltip.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\gtk1\tooltip.h
 	"wx/defs.h"
 	"wx/string.h"
 	"wx/object.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\osx\tooltip.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\osx\tooltip.h
 	"wx/string.h"
 	"wx/event.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\qt\tooltip.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\qt\tooltip.h
 	"wx/object.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\generic\statusbr.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\generic\statusbr.h
 	"wx/defs.h"
 	"wx/pen.h"
 	"wx/arrstr.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\osx\statusbr.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\osx\statusbr.h
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\qt\statusbar.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\qt\statusbar.h
 	"wx/statusbr.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\univ\frame.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\univ\frame.h
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\msw\frame.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\msw\frame.h
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\gtk\frame.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\gtk\frame.h
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\gtk1\frame.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\gtk1\frame.h
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\motif\frame.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\motif\frame.h
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\osx\frame.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\osx\frame.h
 	"wx/toolbar.h"
 	"wx/accel.h"
 	"wx/icon.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\toolbar.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\toolbar.h
 	"wx/defs.h"
 	"wx/tbarbase.h"
 	"wx/univ/toolbar.h"
@@ -4058,16 +4058,16 @@
 	"wx/osx/toolbar.h"
 	"wx/qt/toolbar.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\tbarbase.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\tbarbase.h
 	"wx/defs.h"
 	"wx/bitmap.h"
 	"wx/list.h"
 	"wx/control.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\univ\toolbar.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\univ\toolbar.h
 	"wx/button.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\button.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\button.h
 	"wx/defs.h"
 	"wx/anybutton.h"
 	"wx/univ/button.h"
@@ -4078,7 +4078,7 @@
 	"wx/osx/button.h"
 	"wx/qt/button.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\anybutton.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\anybutton.h
 	"wx/defs.h"
 	"wx/bitmap.h"
 	"wx/control.h"
@@ -4088,92 +4088,92 @@
 	"wx/osx/anybutton.h"
 	"wx/qt/anybutton.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\univ\anybutton.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\univ\anybutton.h
 	"wx/univ/inphand.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\msw\anybutton.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\msw\anybutton.h
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\gtk\anybutton.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\gtk\anybutton.h
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\osx\anybutton.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\osx\anybutton.h
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\qt\anybutton.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\qt\anybutton.h
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\univ\button.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\univ\button.h
 	"wx/bitmap.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\msw\button.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\msw\button.h
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\motif\button.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\motif\button.h
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\gtk\button.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\gtk\button.h
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\gtk1\button.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\gtk1\button.h
 	"wx/defs.h"
 	"wx/object.h"
 	"wx/list.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\osx\button.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\osx\button.h
 	"wx/control.h"
 	"wx/gdicmn.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\qt\button.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\qt\button.h
 	"wx/control.h"
 	"wx/button.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\msw\toolbar.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\msw\toolbar.h
 	"wx/dynarray.h"
 	"wx/imaglist.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\imaglist.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\imaglist.h
 	"wx/defs.h"
 	"wx/msw/imaglist.h"
 	"wx/generic/imaglist.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\msw\imaglist.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\msw\imaglist.h
 	"wx/bitmap.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\generic\imaglist.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\generic\imaglist.h
 	"wx/bitmap.h"
 	"wx/gdicmn.h"
 	"wx/vector.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\motif\toolbar.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\motif\toolbar.h
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\gtk\toolbar.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\gtk\toolbar.h
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\gtk1\toolbar.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\gtk1\toolbar.h
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\osx\toolbar.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\osx\toolbar.h
 	"wx/tbarbase.h"
 	"wx/dynarray.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\qt\toolbar.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\qt\toolbar.h
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\qt\frame.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\qt\frame.h
 	"wx/frame.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\x11\app.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\x11\app.h
 	"wx/gdicmn.h"
 	"wx/event.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\osx\app.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\osx\app.h
 	"wx/defs.h"
 	"wx/object.h"
 	"wx/gdicmn.h"
 	"wx/event.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\qt\app.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\qt\app.h
 	<wx/scopedarray.h>
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\scopedarray.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\scopedarray.h
 	"wx/defs.h"
 	"wx/checkeddelete.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\univ\theme.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\univ\theme.h
 	"wx/string.h"
 
-1737034016 c:\users\ebb3494\documents\sources\edr\build\edr2main.h
+1737037616 c:\users\ebb3494\documents\sources\edr\build\edr2main.h
 	<wx/button.h>
 	<wx/choice.h>
 	<wx/filepicker.h>
@@ -4186,7 +4186,7 @@
 	<wx/statusbr.h>
 	<wx/textctrl.h>
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\choice.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\choice.h
 	"wx/defs.h"
 	"wx/ctrlsub.h"
 	"wx/univ/choice.h"
@@ -4197,7 +4197,7 @@
 	"wx/osx/choice.h"
 	"wx/qt/choice.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\ctrlsub.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\ctrlsub.h
 	"wx/defs.h"
 	"wx/arrstr.h"
 	"wx/control.h"
@@ -4206,21 +4206,21 @@
 	"wx/motif/ctrlsub.h"
 	"wx/qt/ctrlsub.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\msw\ctrlsub.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\msw\ctrlsub.h
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\motif\ctrlsub.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\motif\ctrlsub.h
 	"wx/dynarray.h"
 	"wx/generic/ctrlsub.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\generic\ctrlsub.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\generic\ctrlsub.h
 	"wx/dynarray.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\qt\ctrlsub.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\qt\ctrlsub.h
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\univ\choice.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\univ\choice.h
 	"wx/combobox.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\combobox.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\combobox.h
 	"wx/defs.h"
 	"wx/textctrl.h"
 	"wx/ctrlsub.h"
@@ -4233,7 +4233,7 @@
 	"wx/osx/combobox.h"
 	"wx/qt/combobox.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\textctrl.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\textctrl.h
 	"wx/defs.h"
 	"wx/control.h"
 	"wx/textentry.h"
@@ -4249,7 +4249,7 @@
 	"wx/osx/textctrl.h"
 	"wx/qt/textctrl.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\textentry.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\textentry.h
 	"wx/filefn.h"
 	"wx/gdicmn.h"
 	"wx/gtk/textentry.h"
@@ -4258,33 +4258,33 @@
 	"wx/motif/textentry.h"
 	"wx/qt/textentry.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\gtk\textentry.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\gtk\textentry.h
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\osx\textentry.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\osx\textentry.h
 	"wx/control.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\msw\textentry.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\msw\textentry.h
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\motif\textentry.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\motif\textentry.h
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\qt\textentry.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\qt\textentry.h
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\ioswrap.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\ioswrap.h
 	"wx/beforestd.h"
 	<iostream>
 	"wx/afterstd.h"
 	"wx/msw/winundef.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\x11\textctrl.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\x11\textctrl.h
 	"wx/univ/textctrl.h"
 	"wx/scrolwin.h"
 	"wx/arrstr.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\univ\textctrl.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\univ\textctrl.h
 	"wx/scrolwin.h"
 	"wx/univ/inphand.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\scrolwin.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\scrolwin.h
 	"wx/control.h"
 	"wx/panel.h"
 	"wx/scrolbar.h"
@@ -4292,25 +4292,25 @@
 	"wx/gtk1/scrolwin.h"
 	"wx/generic/scrolwin.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\panel.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\panel.h
 	"wx/window.h"
 	"wx/containr.h"
 	"wx/univ/panel.h"
 	"wx/msw/panel.h"
 	"wx/generic/panelg.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\containr.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\containr.h
 	"wx/defs.h"
 	"wx/event.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\univ\panel.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\univ\panel.h
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\msw\panel.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\msw\panel.h
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\generic\panelg.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\generic\panelg.h
 	"wx/bitmap.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\scrolbar.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\scrolbar.h
 	"wx/defs.h"
 	"wx/control.h"
 	"wx/univ/scrolbar.h"
@@ -4321,61 +4321,61 @@
 	"wx/osx/scrolbar.h"
 	"wx/qt/scrolbar.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\univ\scrolbar.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\univ\scrolbar.h
 	"wx/univ/scrarrow.h"
 	"wx/renderer.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\univ\scrarrow.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\univ\scrarrow.h
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\renderer.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\renderer.h
 	"wx/gdicmn.h"
 	"wx/colour.h"
 	"wx/font.h"
 	"wx/bitmap.h"
 	"wx/string.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\msw\scrolbar.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\msw\scrolbar.h
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\motif\scrolbar.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\motif\scrolbar.h
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\gtk\scrolbar.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\gtk\scrolbar.h
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\gtk1\scrolbar.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\gtk1\scrolbar.h
 	"wx/defs.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\osx\scrolbar.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\osx\scrolbar.h
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\qt\scrolbar.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\qt\scrolbar.h
 	"wx/scrolbar.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\gtk\scrolwin.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\gtk\scrolwin.h
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\gtk1\scrolwin.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\gtk1\scrolwin.h
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\generic\scrolwin.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\generic\scrolwin.h
 	"wx/recguard.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\recguard.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\recguard.h
 	"wx/defs.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\msw\textctrl.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\msw\textctrl.h
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\motif\textctrl.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\motif\textctrl.h
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\gtk\textctrl.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\gtk\textctrl.h
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\gtk1\textctrl.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\gtk1\textctrl.h
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\osx\textctrl.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\osx\textctrl.h
 	"wx/control.h"
 	"wx/textctrl.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\qt\textctrl.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\qt\textctrl.h
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\univ\combobox.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\univ\combobox.h
 	"wx/combo.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\combo.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\combo.h
 	"wx/defs.h"
 	"wx/control.h"
 	"wx/renderer.h"
@@ -4385,10 +4385,10 @@
 	"wx/msw/combo.h"
 	"wx/generic/combo.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\msw\combo.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\msw\combo.h
 	"wx/timer.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\timer.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\timer.h
 	"wx/defs.h"
 	"wx/object.h"
 	"wx/longlong.h"
@@ -4396,71 +4396,71 @@
 	"wx/stopwatch.h"
 	"wx/utils.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\stopwatch.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\stopwatch.h
 	"wx/defs.h"
 	"wx/longlong.h"
 	"wx/time.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\generic\combo.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\generic\combo.h
 	"wx/containr.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\msw\combobox.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\msw\combobox.h
 	"wx/choice.h"
 	"wx/textentry.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\motif\combobox.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\motif\combobox.h
 	"wx/choice.h"
 	"wx/textentry.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\gtk\combobox.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\gtk\combobox.h
 	"wx/choice.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\gtk1\combobox.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\gtk1\combobox.h
 	"wx/defs.h"
 	"wx/object.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\osx\combobox.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\osx\combobox.h
 	"wx/containr.h"
 	"wx/choice.h"
 	"wx/textctrl.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\qt\combobox.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\qt\combobox.h
 	"wx/choice.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\msw\choice.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\msw\choice.h
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\motif\choice.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\motif\choice.h
 	"wx/clntdata.h"
 	"wx/dynarray.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\gtk\choice.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\gtk\choice.h
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\gtk1\choice.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\gtk1\choice.h
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\osx\choice.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\osx\choice.h
 	"wx/control.h"
 	"wx/dynarray.h"
 	"wx/arrstr.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\qt\choice.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\qt\choice.h
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\filepicker.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\filepicker.h
 	"wx/defs.h"
 	"wx/pickerbase.h"
 	"wx/filename.h"
 	"wx/gtk/filepicker.h"
 	"wx/generic/filepickerg.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\pickerbase.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\pickerbase.h
 	"wx/control.h"
 	"wx/sizer.h"
 	"wx/containr.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\sizer.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\sizer.h
 	"wx/defs.h"
 	"wx/window.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\filename.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\filename.h
 	"wx/arrstr.h"
 	"wx/filefn.h"
 	"wx/datetime.h"
@@ -4468,25 +4468,25 @@
 	"wx/longlong.h"
 	"wx/file.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\file.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\file.h
 	"wx/defs.h"
 	"wx/string.h"
 	"wx/filefn.h"
 	"wx/convauto.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\convauto.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\convauto.h
 	"wx/strconv.h"
 	"wx/fontenc.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\gtk\filepicker.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\gtk\filepicker.h
 	"wx/generic/filepickerg.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\generic\filepickerg.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\generic\filepickerg.h
 	"wx/button.h"
 	"wx/filedlg.h"
 	"wx/dirdlg.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\filedlg.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\filedlg.h
 	"wx/defs.h"
 	"wx/dialog.h"
 	"wx/arrstr.h"
@@ -4498,7 +4498,7 @@
 	"wx/osx/filedlg.h"
 	"wx/qt/filedlg.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\dialog.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\dialog.h
 	"wx/toplevel.h"
 	"wx/containr.h"
 	"wx/sharedptr.h"
@@ -4510,35 +4510,35 @@
 	"wx/osx/dialog.h"
 	"wx/qt/dialog.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\sharedptr.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\sharedptr.h
 	"wx/defs.h"
 	"wx/atomic.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\atomic.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\atomic.h
 	"wx/defs.h"
 	"wx/msw/wrapwin.h"
 	"libkern/OSAtomic.h"
 	<atomic.h>
 	"wx/thread.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\univ\dialog.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\univ\dialog.h
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\msw\dialog.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\msw\dialog.h
 	"wx/panel.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\motif\dialog.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\motif\dialog.h
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\gtk\dialog.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\gtk\dialog.h
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\gtk1\dialog.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\gtk1\dialog.h
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\osx\dialog.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\osx\dialog.h
 	"wx/panel.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\qt\dialog.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\qt\dialog.h
 	"wx/dialog.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\generic\filedlgg.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\generic\filedlgg.h
 	"wx/listctrl.h"
 	"wx/datetime.h"
 	"wx/filefn.h"
@@ -4546,14 +4546,14 @@
 	"wx/filedlg.h"
 	"wx/generic/filectrlg.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\listctrl.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\listctrl.h
 	"wx/defs.h"
 	"wx/listbase.h"
 	"wx/msw/listctrl.h"
 	"wx/qt/listctrl.h"
 	"wx/generic/listctrl.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\listbase.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\listbase.h
 	"wx/colour.h"
 	"wx/font.h"
 	"wx/gdicmn.h"
@@ -4562,62 +4562,62 @@
 	"wx/itemattr.h"
 	"wx/systhemectrl.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\itemattr.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\itemattr.h
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\systhemectrl.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\systhemectrl.h
 	"wx/defs.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\msw\listctrl.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\msw\listctrl.h
 	"wx/textctrl.h"
 	"wx/dynarray.h"
 	"wx/vector.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\qt\listctrl.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\qt\listctrl.h
 	"wx/textctrl.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\generic\listctrl.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\generic\listctrl.h
 	"wx/containr.h"
 	"wx/scrolwin.h"
 	"wx/textctrl.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\artprov.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\artprov.h
 	"wx/string.h"
 	"wx/bitmap.h"
 	"wx/icon.h"
 	"wx/iconbndl.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\generic\filectrlg.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\generic\filectrlg.h
 	"wx/containr.h"
 	"wx/listctrl.h"
 	"wx/filectrl.h"
 	"wx/filename.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\filectrl.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\filectrl.h
 	"wx/defs.h"
 	"wx/string.h"
 	"wx/event.h"
 	"wx/gtk/filectrl.h"
 	"wx/generic/filectrlg.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\gtk\filectrl.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\gtk\filectrl.h
 	"wx/control.h"
 	"wx/filectrl.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\msw\filedlg.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\msw\filedlg.h
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\motif\filedlg.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\motif\filedlg.h
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\gtk\filedlg.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\gtk\filedlg.h
 	"wx/gtk/filectrl.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\gtk1\filedlg.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\gtk1\filedlg.h
 	"wx/generic/filedlgg.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\osx\filedlg.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\osx\filedlg.h
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\qt\filedlg.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\qt\filedlg.h
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\dirdlg.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\dirdlg.h
 	"wx/defs.h"
 	"wx/dialog.h"
 	"wx/generic/dirdlgg.h"
@@ -4629,18 +4629,18 @@
 	"wx/generic/dirdlgg.h"
 	"wx/qt/dirdlg.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\generic\dirdlgg.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\generic\dirdlgg.h
 	"wx/dialog.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\msw\dirdlg.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\msw\dirdlg.h
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\gtk\dirdlg.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\gtk\dirdlg.h
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\osx\dirdlg.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\osx\dirdlg.h
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\qt\dirdlg.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\qt\dirdlg.h
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\menu.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\menu.h
 	"wx/defs.h"
 	"wx/list.h"
 	"wx/window.h"
@@ -4653,7 +4653,7 @@
 	"wx/osx/menu.h"
 	"wx/qt/menu.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\menuitem.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\menuitem.h
 	"wx/defs.h"
 	"wx/object.h"
 	"wx/windowid.h"
@@ -4665,61 +4665,61 @@
 	"wx/osx/menuitem.h"
 	"wx/qt/menuitem.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\univ\menuitem.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\univ\menuitem.h
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\msw\menuitem.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\msw\menuitem.h
 	"wx/bitmap.h"
 	"wx/ownerdrw.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\ownerdrw.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\ownerdrw.h
 	"wx/defs.h"
 	"wx/font.h"
 	"wx/colour.h"
 	"wx/msw/ownerdrw.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\msw\ownerdrw.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\msw\ownerdrw.h
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\motif\menuitem.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\motif\menuitem.h
 	"wx/bitmap.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\gtk\menuitem.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\gtk\menuitem.h
 	"wx/bitmap.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\gtk1\menuitem.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\gtk1\menuitem.h
 	"wx/bitmap.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\osx\menuitem.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\osx\menuitem.h
 	"wx/defs.h"
 	"wx/bitmap.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\qt\menuitem.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\qt\menuitem.h
 	"wx/menuitem.h"
 	"wx/bitmap.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\univ\menu.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\univ\menu.h
 	"wx/accel.h"
 	"wx/dynarray.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\msw\menu.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\msw\menu.h
 	"wx/accel.h"
 	"wx/dynarray.h"
 	"wx/arrstr.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\motif\menu.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\motif\menu.h
 	"wx/colour.h"
 	"wx/font.h"
 	"wx/arrstr.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\gtk\menu.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\gtk\menu.h
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\gtk1\menu.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\gtk1\menu.h
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\osx\menu.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\osx\menu.h
 	"wx/arrstr.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\qt\menu.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\qt\menu.h
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\spinctrl.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\spinctrl.h
 	"wx/defs.h"
 	"wx/spinbutt.h"
 	"wx/msw/spinctrl.h"
@@ -4728,7 +4728,7 @@
 	"wx/qt/spinctrl.h"
 	"wx/generic/spinctlg.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\spinbutt.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\spinbutt.h
 	"wx/defs.h"
 	"wx/control.h"
 	"wx/event.h"
@@ -4741,50 +4741,50 @@
 	"wx/osx/spinbutt.h"
 	"wx/qt/spinbutt.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\range.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\range.h
 	"wx/defs.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\univ\spinbutt.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\univ\spinbutt.h
 	"wx/univ/scrarrow.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\msw\spinbutt.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\msw\spinbutt.h
 	"wx/control.h"
 	"wx/event.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\motif\spinbutt.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\motif\spinbutt.h
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\gtk\spinbutt.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\gtk\spinbutt.h
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\gtk1\spinbutt.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\gtk1\spinbutt.h
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\osx\spinbutt.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\osx\spinbutt.h
 	"wx/control.h"
 	"wx/event.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\qt\spinbutt.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\qt\spinbutt.h
 	"wx/spinbutt.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\msw\spinctrl.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\msw\spinctrl.h
 	"wx/spinbutt.h"
 	"wx/dynarray.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\gtk\spinctrl.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\gtk\spinctrl.h
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\gtk1\spinctrl.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\gtk1\spinctrl.h
 	"wx/defs.h"
 	"wx/control.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\qt\spinctrl.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\qt\spinctrl.h
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\generic\spinctlg.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\generic\spinctlg.h
 	"wx/compositewin.h"
 	"wx/textctrl.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\compositewin.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\compositewin.h
 	"wx/window.h"
 	"wx/containr.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\stattext.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\stattext.h
 	"wx/defs.h"
 	"wx/control.h"
 	"wx/univ/stattext.h"
@@ -4795,42 +4795,42 @@
 	"wx/osx/stattext.h"
 	"wx/qt/stattext.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\univ\stattext.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\univ\stattext.h
 	"wx/generic/stattextg.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\generic\stattextg.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\generic\stattextg.h
 	"wx/stattext.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\msw\stattext.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\msw\stattext.h
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\motif\stattext.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\motif\stattext.h
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\gtk\stattext.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\gtk\stattext.h
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\gtk1\stattext.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\gtk1\stattext.h
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\osx\stattext.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\osx\stattext.h
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\qt\stattext.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\qt\stattext.h
 
-1743087952 source:c:\users\ebb3494\documents\sources\edr\build\readcrashdata.l
+1746087076 source:c:\users\ebb3494\documents\sources\edr\build\readcrashdata.l
 	"ReadCrashData.h"
 	"EDRinput.hpp"
 
-1690363606 c:\users\ebb3494\documents\sources\edr\build\readcrashdata.h
+1690367206 c:\users\ebb3494\documents\sources\edr\build\readcrashdata.h
 
-1742979864 c:\users\ebb3494\documents\sources\edr\build\edrinput.hpp
+1746698682 c:\users\ebb3494\documents\sources\edr\build\edrinput.hpp
 
-1584205418 source:c:\users\ebb3494\documents\sources\edr\build\resource.rc
+1746020504 source:c:\users\ebb3494\documents\sources\edr\build\resource.rc
 	"wx/msw/wx.rc"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\msw\wx.rc
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\msw\wx.rc
 	<windows.h>
 	"wx/msw/rcdefs.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\msw\rcdefs.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\msw\rcdefs.h
 
-1744296762 source:c:\users\ebb3494\documents\sources\edr\build\edr2main.cpp
+1744312906 source:c:\users\ebb3494\documents\sources\edr\build\edr2main.cpp
 	"EDR2Main.h"
 	"version.h"
 	<wx/intl.h>
@@ -4844,7 +4844,7 @@
 	"EDRinput.hpp"
 	"./graph2d.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\msgdlg.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\msgdlg.h
 	"wx/defs.h"
 	"wx/dialog.h"
 	"wx/stockitem.h"
@@ -4855,32 +4855,32 @@
 	"wx/osx/msgdlg.h"
 	"wx/qt/msgdlg.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\stockitem.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\stockitem.h
 	"wx/defs.h"
 	"wx/chartype.h"
 	"wx/string.h"
 	"wx/accel.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\generic\msgdlgg.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\generic\msgdlgg.h
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\msw\msgdlg.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\msw\msgdlg.h
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\motif\msgdlg.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\motif\msgdlg.h
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\gtk\msgdlg.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\gtk\msgdlg.h
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\osx\msgdlg.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\osx\msgdlg.h
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\qt\msgdlg.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\qt\msgdlg.h
 	"wx/msgdlg.h"
 
-1618262638 c:\progwin32\wxwidgets-3.1.5\include\wx\valtext.h
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\valtext.h
 	"wx/defs.h"
 	"wx/validate.h"
 
-1738186646 c:\users\ebb3494\documents\sources\edr\build\graph2d.h
+1738190246 c:\users\ebb3494\documents\sources\edr\build\graph2d.h
 
-1744374124 c:\users\ebb3494\documents\sources\edr\build\version.h
+1746698956 c:\users\ebb3494\documents\sources\edr\build\version.h
 
 1618266238 c:\progwin32\wx3-1-5us64bit\include\wx\xml\xml.h
 	"wx/defs.h"
@@ -4910,4 +4910,2279 @@
 1618266238 c:\progwin32\wx3-1-5us64bit\include\wx\osx\cocoa\stdpaths.h
 
 1618266238 c:\progwin32\wx3-1-5us64bit\include\wx\unix\stdpaths.h
+
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\stdpaths.h
+	"wx/defs.h"
+	"wx/string.h"
+	"wx/filefn.h"
+	"wx/msw/stdpaths.h"
+	"wx/osx/cocoa/stdpaths.h"
+	"wx/unix/stdpaths.h"
+
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\msw\stdpaths.h
+
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\osx\cocoa\stdpaths.h
+
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\unix\stdpaths.h
+
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\xml\xml.h
+	"wx/defs.h"
+	"wx/string.h"
+	"wx/object.h"
+	"wx/list.h"
+	"wx/textbuf.h"
+	"wx/versioninfo.h"
+
+1618266238 c:\progwin32\wxwidgets-3.1.5\include\wx\textbuf.h
+	"wx/defs.h"
+	"wx/arrstr.h"
+	"wx/convauto.h"
+	"wx/string.h"
+	"wx/dynarray.h"
+
+1526900308 source:d:\users\klaus\sources\edr\build\butterworthtime.for
+
+1744443543 source:d:\users\klaus\sources\edr\build\edrplot.f08
+
+1687952812 source:d:\users\klaus\sources\edr\build\edr2app.cpp
+	"EDR2App.h"
+	"EDR2Main.h"
+	<wx/image.h>
+
+1687952812 d:\users\klaus\sources\edr\build\edr2app.h
+	<wx/app.h>
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\app.h
+	"wx/event.h"
+	"wx/eventfilter.h"
+	"wx/build.h"
+	"wx/cmdargs.h"
+	"wx/init.h"
+	"wx/intl.h"
+	"wx/log.h"
+	"wx/unix/app.h"
+	"wx/msw/app.h"
+	"wx/motif/app.h"
+	"wx/dfb/app.h"
+	"wx/gtk/app.h"
+	"wx/gtk1/app.h"
+	"wx/x11/app.h"
+	"wx/osx/app.h"
+	"wx/qt/app.h"
+	"wx/univ/theme.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\event.h
+	"wx/defs.h"
+	"wx/cpp.h"
+	"wx/object.h"
+	"wx/clntdata.h"
+	"wx/math.h"
+	"wx/gdicmn.h"
+	"wx/cursor.h"
+	"wx/mousestate.h"
+	"wx/dynarray.h"
+	"wx/thread.h"
+	"wx/tracker.h"
+	"wx/typeinfo.h"
+	"wx/any.h"
+	"wx/vector.h"
+	"wx/meta/convertible.h"
+	"wx/meta/removeref.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\defs.h
+	"wx/msw/winundef.h"
+	"wx/platform.h"
+	"wx/version.h"
+	"wx/dlimpexp.h"
+	<stddef.h>
+	"wx/types.h"
+	"wx/debug.h"
+	<unistd.h>
+	"wx/qt/defs.h"
+	"wx/features.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\msw\winundef.h
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\platform.h
+	<unistd.h>
+	<TargetConditionals.h>
+	<Availability.h>
+	"wx/android/config_android.h"
+	"wx/compiler.h"
+	"wx/setup.h"
+	"wx/msw/libraries.h"
+	"wx/msw/gccpriv.h"
+	<TargetConditionals.h>
+	<Availability.h>
+	"wx/chkconf.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\android\config_android.h
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\compiler.h
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\lib\gcc_lib\mswu\wx\setup.h
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\msw\libraries.h
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\msw\gccpriv.h
+	"wx/msw/winver.h"
+	<_mingw.h>
+	<w32api.h>
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\msw\winver.h
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\chkconf.h
+	"wx/msw/chkconf.h"
+	"wx/gtk/chkconf.h"
+	"wx/gtk/chkconf.h"
+	"wx/osx/chkconf.h"
+	"wx/dfb/chkconf.h"
+	"wx/motif/chkconf.h"
+	"wx/x11/chkconf.h"
+	"wx/android/chkconf.h"
+	"wx/unix/chkconf.h"
+	"wx/univ/chkconf.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\msw\chkconf.h
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\gtk\chkconf.h
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\osx\chkconf.h
+	"wx/osx/iphone/chkconf.h"
+	"wx/osx/cocoa/chkconf.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\osx\iphone\chkconf.h
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\osx\cocoa\chkconf.h
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\dfb\chkconf.h
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\motif\chkconf.h
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\x11\chkconf.h
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\android\chkconf.h
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\unix\chkconf.h
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\univ\chkconf.h
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\version.h
+	"wx/cpp.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\cpp.h
+	"wx/compiler.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\dlimpexp.h
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\types.h
+	"wx/platform.h"
+	<sys/types.h>
+	<sys/types.h>
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\debug.h
+	<assert.h>
+	<limits.h>
+	"wx/chartype.h"
+	"wx/cpp.h"
+	"wx/dlimpexp.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\chartype.h
+	"wx/types.h"
+	<sys/types.h>
+	<wchar.h>
+	<wcstr.h>
+	<stdlib.h>
+	<widec.h>
+	<stddef.h>
+	<string.h>
+	<ctype.h>
+	<tchar.h>
+	<ctype.h>
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\qt\defs.h
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\features.h
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\object.h
+	"wx/memory.h"
+	"wx/xti.h"
+	"wx/rtti.h"
+	"wx/xti2.h"
+	"wx/msw/msvcrt.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\memory.h
+	"wx/defs.h"
+	"wx/string.h"
+	"wx/msgout.h"
+	<stddef.h>
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\string.h
+	"wx/defs.h"
+	<ctype.h>
+	<string.h>
+	<stdio.h>
+	<stdarg.h>
+	<limits.h>
+	<stdlib.h>
+	"wx/wxcrtbase.h"
+	"wx/strvararg.h"
+	"wx/buffer.h"
+	"wx/strconv.h"
+	"wx/stringimpl.h"
+	"wx/stringops.h"
+	"wx/unichar.h"
+	"wx/tls.h"
+	<functional>
+	"wx/iosfwrap.h"
+	"wx/crt.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\wxcrtbase.h
+	"wx/chartype.h"
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	<wctype.h>
+	<time.h>
+	<io.h>
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\strvararg.h
+	"wx/platform.h"
+	"wx/cpp.h"
+	"wx/chartype.h"
+	"wx/strconv.h"
+	"wx/buffer.h"
+	"wx/unichar.h"
+	<type_traits>
+	<type_traits>
+	<tr1/type_traits>
+	"wx/stringimpl.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\strconv.h
+	"wx/defs.h"
+	"wx/chartype.h"
+	"wx/buffer.h"
+	<stdlib.h>
+	"wx/fontenc.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\buffer.h
+	"wx/defs.h"
+	"wx/wxcrtbase.h"
+	<stdlib.h>
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\fontenc.h
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\unichar.h
+	"wx/defs.h"
+	"wx/chartype.h"
+	"wx/stringimpl.h"
+	<algorithm>
+	<utility>
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\stringimpl.h
+	"wx/defs.h"
+	"wx/chartype.h"
+	"wx/wxcrtbase.h"
+	<stdlib.h>
+	"wx/beforestd.h"
+	<string>
+	"wx/afterstd.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\beforestd.h
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\afterstd.h
+	"wx/msw/winundef.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\stringops.h
+	"wx/chartype.h"
+	"wx/stringimpl.h"
+	"wx/unichar.h"
+	"wx/buffer.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\tls.h
+	"wx/defs.h"
+	"wx/msw/tls.h"
+	"wx/unix/tls.h"
+	<stdlib.h>
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\msw\tls.h
+	"wx/msw/wrapwin.h"
+	"wx/thread.h"
+	"wx/vector.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\msw\wrapwin.h
+	"wx/platform.h"
+	"wx/msw/winver.h"
+	<winsock2.h>
+	<windows.h>
+	"wx/msw/winundef.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\thread.h
+	"wx/defs.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\vector.h
+	"wx/defs.h"
+	<vector>
+	<algorithm>
+	"wx/scopeguard.h"
+	"wx/meta/movable.h"
+	"wx/meta/if.h"
+	"wx/beforestd.h"
+	<iterator>
+	<new>
+	"wx/afterstd.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\scopeguard.h
+	"wx/defs.h"
+	"wx/except.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\except.h
+	"wx/defs.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\meta\movable.h
+	"wx/meta/pod.h"
+	"wx/string.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\meta\pod.h
+	"wx/defs.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\meta\if.h
+	"wx/defs.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\unix\tls.h
+	<pthread.h>
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\iosfwrap.h
+	<iosfwd>
+	"wx/msw/winundef.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\crt.h
+	"wx/defs.h"
+	"wx/chartype.h"
+	"wx/wxcrt.h"
+	"wx/wxcrtvararg.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\wxcrt.h
+	"wx/wxcrtbase.h"
+	"wx/string.h"
+	<string.h>
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\wxcrtvararg.h
+	"wx/wxcrt.h"
+	"wx/strvararg.h"
+	"wx/string.h"
+	<stdarg.h>
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\msgout.h
+	"wx/defs.h"
+	"wx/chartype.h"
+	"wx/strvararg.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\xti.h
+	"wx/defs.h"
+	"wx/xtitypes.h"
+	"wx/xtihandler.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\xtitypes.h
+	"wx/defs.h"
+	"wx/string.h"
+	"wx/hashmap.h"
+	"wx/arrstr.h"
+	"wx/flags.h"
+	"wx/intl.h"
+	"wx/log.h"
+	<typeinfo>
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\hashmap.h
+	"wx/string.h"
+	"wx/wxcrt.h"
+	<unordered_map>
+	<tr1/unordered_map>
+	<ext/hash_map>
+	<hash_map>
+	<stddef.h>
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\arrstr.h
+	"wx/defs.h"
+	"wx/string.h"
+	"wx/dynarray.h"
+	<vector>
+	"wx/beforestd.h"
+	<iterator>
+	"wx/afterstd.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\dynarray.h
+	"wx/defs.h"
+	"wx/vector.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\flags.h
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\intl.h
+	"wx/defs.h"
+	"wx/string.h"
+	"wx/translation.h"
+	"wx/fontenc.h"
+	"wx/language.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\translation.h
+	"wx/defs.h"
+	"wx/string.h"
+	"wx/buffer.h"
+	"wx/language.h"
+	"wx/hashmap.h"
+	"wx/strconv.h"
+	"wx/scopedptr.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\language.h
+	"wx/defs.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\scopedptr.h
+	"wx/defs.h"
+	"wx/checkeddelete.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\checkeddelete.h
+	"wx/cpp.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\log.h
+	"wx/defs.h"
+	"wx/cpp.h"
+	"wx/string.h"
+	"wx/strvararg.h"
+	"wx/arrstr.h"
+	<time.h>
+	"wx/dynarray.h"
+	"wx/hashmap.h"
+	"wx/msgout.h"
+	"wx/time.h"
+	"wx/thread.h"
+	"wx/iosfwrap.h"
+	"wx/generic/logg.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\time.h
+	"wx/longlong.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\longlong.h
+	"wx/defs.h"
+	"wx/string.h"
+	<limits.h>
+	"wx/iosfwrap.h"
+	<limits>
+	"wx/strvararg.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\generic\logg.h
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\xtihandler.h
+	"wx/defs.h"
+	"wx/xti.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\rtti.h
+	"wx/memory.h"
+	"wx/flags.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\xti2.h
+	"wx/xtiprop.h"
+	"wx/xtictor.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\xtiprop.h
+	"wx/defs.h"
+	"wx/xti.h"
+	"wx/any.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\any.h
+	"wx/defs.h"
+	<new>
+	"wx/string.h"
+	"wx/meta/if.h"
+	"wx/typeinfo.h"
+	"wx/list.h"
+	"wx/datetime.h"
+	"wx/variant.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\typeinfo.h
+	"wx/defs.h"
+	<typeinfo>
+	<string.h>
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\list.h
+	"wx/defs.h"
+	"wx/object.h"
+	"wx/string.h"
+	"wx/vector.h"
+	"wx/beforestd.h"
+	<algorithm>
+	<iterator>
+	<list>
+	"wx/afterstd.h"
+	<iterator>
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\datetime.h
+	"wx/defs.h"
+	<time.h>
+	<limits.h>
+	"wx/longlong.h"
+	"wx/anystr.h"
+	"wx/dynarray.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\anystr.h
+	"wx/string.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\variant.h
+	"wx/defs.h"
+	"wx/object.h"
+	"wx/string.h"
+	"wx/arrstr.h"
+	"wx/list.h"
+	"wx/cpp.h"
+	"wx/longlong.h"
+	"wx/datetime.h"
+	"wx/iosfwrap.h"
+	"wx/any.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\xtictor.h
+	"wx/defs.h"
+	"wx/xti.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\msw\msvcrt.h
+	<stdlib.h>
+	<crtdbg.h>
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\clntdata.h
+	"wx/defs.h"
+	"wx/string.h"
+	"wx/hashmap.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\math.h
+	"wx/defs.h"
+	<math.h>
+	<cmath>
+	<float.h>
+	<ieeefp.h>
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\gdicmn.h
+	"wx/defs.h"
+	"wx/list.h"
+	"wx/string.h"
+	"wx/fontenc.h"
+	"wx/hashmap.h"
+	"wx/math.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\cursor.h
+	"wx/gdiobj.h"
+	"wx/gdicmn.h"
+	"wx/msw/gdiimage.h"
+	"wx/msw/cursor.h"
+	"wx/motif/cursor.h"
+	"wx/gtk/cursor.h"
+	"wx/gtk1/cursor.h"
+	"wx/x11/cursor.h"
+	"wx/dfb/cursor.h"
+	"wx/osx/cursor.h"
+	"wx/qt/cursor.h"
+	"wx/utils.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\gdiobj.h
+	"wx/object.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\msw\gdiimage.h
+	"wx/gdiobj.h"
+	"wx/gdicmn.h"
+	"wx/list.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\msw\cursor.h
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\motif\cursor.h
+	"wx/gdicmn.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\gtk\cursor.h
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\gtk1\cursor.h
+	"wx/gdicmn.h"
+	"wx/image.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\image.h
+	"wx/defs.h"
+	"wx/object.h"
+	"wx/string.h"
+	"wx/gdicmn.h"
+	"wx/hashmap.h"
+	"wx/arrstr.h"
+	"wx/stream.h"
+	"wx/variant.h"
+	"wx/imagbmp.h"
+	"wx/imagpng.h"
+	"wx/imaggif.h"
+	"wx/imagpcx.h"
+	"wx/imagjpeg.h"
+	"wx/imagtga.h"
+	"wx/imagtiff.h"
+	"wx/imagpnm.h"
+	"wx/imagxpm.h"
+	"wx/imagiff.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\stream.h
+	"wx/defs.h"
+	<stdio.h>
+	"wx/object.h"
+	"wx/string.h"
+	"wx/filefn.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\filefn.h
+	"wx/list.h"
+	"wx/arrstr.h"
+	<time.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<unistd.h>
+	<dirent.h>
+	<direct.h>
+	<dos.h>
+	<io.h>
+	<fcntl.h>
+	<sys/types.h>
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\imagbmp.h
+	"wx/image.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\imagpng.h
+	"wx/defs.h"
+	"wx/image.h"
+	"wx/versioninfo.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\versioninfo.h
+	"wx/string.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\imaggif.h
+	"wx/image.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\imagpcx.h
+	"wx/image.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\imagjpeg.h
+	"wx/defs.h"
+	"wx/image.h"
+	"wx/versioninfo.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\imagtga.h
+	"wx/image.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\imagtiff.h
+	"wx/defs.h"
+	"wx/image.h"
+	"wx/versioninfo.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\imagpnm.h
+	"wx/image.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\imagxpm.h
+	"wx/image.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\imagiff.h
+	"wx/image.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\x11\cursor.h
+	"wx/colour.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\colour.h
+	"wx/defs.h"
+	"wx/gdiobj.h"
+	"wx/variant.h"
+	"wx/msw/colour.h"
+	"wx/motif/colour.h"
+	"wx/gtk/colour.h"
+	"wx/gtk1/colour.h"
+	"wx/generic/colour.h"
+	"wx/x11/colour.h"
+	"wx/osx/colour.h"
+	"wx/qt/colour.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\msw\colour.h
+	"wx/object.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\motif\colour.h
+	"wx/object.h"
+	"wx/string.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\gtk\colour.h
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\gtk1\colour.h
+	"wx/defs.h"
+	"wx/object.h"
+	"wx/string.h"
+	"wx/gdiobj.h"
+	"wx/palette.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\palette.h
+	"wx/defs.h"
+	"wx/object.h"
+	"wx/gdiobj.h"
+	"wx/msw/palette.h"
+	"wx/x11/palette.h"
+	"wx/generic/paletteg.h"
+	"wx/osx/palette.h"
+	"wx/qt/palette.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\msw\palette.h
+	"wx/gdiobj.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\x11\palette.h
+	"wx/list.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\generic\paletteg.h
+	"wx/defs.h"
+	"wx/object.h"
+	"wx/gdiobj.h"
+	"wx/gdicmn.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\osx\palette.h
+	"wx/gdiobj.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\qt\palette.h
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\generic\colour.h
+	"wx/object.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\x11\colour.h
+	"wx/defs.h"
+	"wx/object.h"
+	"wx/string.h"
+	"wx/gdiobj.h"
+	"wx/palette.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\osx\colour.h
+	"wx/osx/core/colour.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\osx\core\colour.h
+	"wx/object.h"
+	"wx/string.h"
+	"wx/osx/core/cfref.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\osx\core\cfref.h
+	<unistd.h>
+	<Availability.h>
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\qt\colour.h
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\dfb\cursor.h
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\osx\cursor.h
+	"wx/bitmap.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\bitmap.h
+	"wx/string.h"
+	"wx/gdicmn.h"
+	"wx/colour.h"
+	"wx/image.h"
+	"wx/variant.h"
+	"wx/msw/bitmap.h"
+	"wx/x11/bitmap.h"
+	"wx/gtk/bitmap.h"
+	"wx/gtk1/bitmap.h"
+	"wx/x11/bitmap.h"
+	"wx/dfb/bitmap.h"
+	"wx/osx/bitmap.h"
+	"wx/qt/bitmap.h"
+	"wx/generic/mask.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\msw\bitmap.h
+	"wx/msw/gdiimage.h"
+	"wx/math.h"
+	"wx/palette.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\x11\bitmap.h
+	"wx/defs.h"
+	"wx/object.h"
+	"wx/string.h"
+	"wx/palette.h"
+	"wx/gdiobj.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\gtk\bitmap.h
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\gtk1\bitmap.h
+	"wx/defs.h"
+	"wx/object.h"
+	"wx/string.h"
+	"wx/palette.h"
+	"wx/gdiobj.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\dfb\bitmap.h
+	"wx/dfb/dfbptr.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\dfb\dfbptr.h
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\osx\bitmap.h
+	"wx/palette.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\qt\bitmap.h
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\generic\mask.h
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\qt\cursor.h
+	"wx/image.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\utils.h
+	"wx/object.h"
+	"wx/list.h"
+	"wx/filefn.h"
+	"wx/hashmap.h"
+	"wx/versioninfo.h"
+	"wx/meta/implicitconversion.h"
+	"wx/gdicmn.h"
+	"wx/mousestate.h"
+	"wx/vector.h"
+	"wx/longlong.h"
+	"wx/platinfo.h"
+	<dirent.h>
+	<unistd.h>
+	<stdio.h>
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\meta\implicitconversion.h
+	"wx/defs.h"
+	"wx/meta/if.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\mousestate.h
+	"wx/gdicmn.h"
+	"wx/kbdstate.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\kbdstate.h
+	"wx/defs.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\platinfo.h
+	"wx/string.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\tracker.h
+	"wx/defs.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\meta\convertible.h
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\meta\removeref.h
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\eventfilter.h
+	"wx/defs.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\build.h
+	"wx/version.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\cmdargs.h
+	"wx/arrstr.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\init.h
+	"wx/defs.h"
+	"wx/chartype.h"
+	"wx/msw/init.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\msw\init.h
+	"wx/msw/wrapwin.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\unix\app.h
+	<signal.h>
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\msw\app.h
+	"wx/event.h"
+	"wx/icon.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\icon.h
+	"wx/iconloc.h"
+	"wx/msw/icon.h"
+	"wx/motif/icon.h"
+	"wx/generic/icon.h"
+	"wx/generic/icon.h"
+	"wx/generic/icon.h"
+	"wx/generic/icon.h"
+	"wx/generic/icon.h"
+	"wx/generic/icon.h"
+	"wx/generic/icon.h"
+	"wx/variant.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\iconloc.h
+	"wx/string.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\msw\icon.h
+	"wx/msw/gdiimage.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\motif\icon.h
+	"wx/bitmap.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\generic\icon.h
+	"wx/bitmap.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\motif\app.h
+	"wx/event.h"
+	"wx/hashmap.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\dfb\app.h
+	"wx/dfb/dfbptr.h"
+	"wx/vidmode.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\vidmode.h
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\gtk\app.h
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\gtk1\app.h
+	"wx/frame.h"
+	"wx/icon.h"
+	"wx/strconv.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\frame.h
+	"wx/toplevel.h"
+	"wx/statusbr.h"
+	"wx/univ/frame.h"
+	"wx/msw/frame.h"
+	"wx/gtk/frame.h"
+	"wx/gtk1/frame.h"
+	"wx/motif/frame.h"
+	"wx/osx/frame.h"
+	"wx/qt/frame.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\toplevel.h
+	"wx/nonownedwnd.h"
+	"wx/iconbndl.h"
+	"wx/weakref.h"
+	"wx/msw/toplevel.h"
+	"wx/gtk/toplevel.h"
+	"wx/gtk1/toplevel.h"
+	"wx/x11/toplevel.h"
+	"wx/dfb/toplevel.h"
+	"wx/osx/toplevel.h"
+	"wx/motif/toplevel.h"
+	"wx/qt/toplevel.h"
+	"wx/univ/toplevel.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\nonownedwnd.h
+	"wx/window.h"
+	"wx/dfb/nonownedwnd.h"
+	"wx/gtk/nonownedwnd.h"
+	"wx/osx/nonownedwnd.h"
+	"wx/msw/nonownedwnd.h"
+	"wx/qt/nonownedwnd.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\window.h
+	"wx/event.h"
+	"wx/list.h"
+	"wx/cursor.h"
+	"wx/font.h"
+	"wx/colour.h"
+	"wx/region.h"
+	"wx/utils.h"
+	"wx/intl.h"
+	"wx/validate.h"
+	"wx/windowid.h"
+	"wx/palette.h"
+	"wx/accel.h"
+	"wx/access.h"
+	"wx/msw/window.h"
+	"wx/motif/window.h"
+	"wx/gtk/window.h"
+	"wx/gtk1/window.h"
+	"wx/x11/window.h"
+	"wx/dfb/window.h"
+	"wx/osx/window.h"
+	"wx/qt/window.h"
+	"wx/univ/window.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\font.h
+	"wx/defs.h"
+	"wx/fontenc.h"
+	"wx/gdiobj.h"
+	"wx/gdicmn.h"
+	"wx/math.h"
+	"wx/msw/font.h"
+	"wx/motif/font.h"
+	"wx/gtk/font.h"
+	"wx/gtk1/font.h"
+	"wx/x11/font.h"
+	"wx/dfb/font.h"
+	"wx/osx/font.h"
+	"wx/qt/font.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\msw\font.h
+	"wx/gdicmn.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\motif\font.h
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\gtk\font.h
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\gtk1\font.h
+	"wx/hash.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\hash.h
+	"wx/defs.h"
+	"wx/string.h"
+	"wx/object.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\x11\font.h
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\dfb\font.h
+	"wx/dfb/dfbptr.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\osx\font.h
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\qt\font.h
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\region.h
+	"wx/gdiobj.h"
+	"wx/gdicmn.h"
+	"wx/msw/region.h"
+	"wx/gtk/region.h"
+	"wx/gtk1/region.h"
+	"wx/x11/region.h"
+	"wx/dfb/region.h"
+	"wx/osx/region.h"
+	"wx/qt/region.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\msw\region.h
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\gtk\region.h
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\gtk1\region.h
+	"wx/list.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\x11\region.h
+	"wx/list.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\dfb\region.h
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\osx\region.h
+	"wx/osx/carbon/region.h"
+	"wx/generic/region.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\osx\carbon\region.h
+	"wx/list.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\generic\region.h
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\qt\region.h
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\validate.h
+	"wx/defs.h"
+	"wx/event.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\windowid.h
+	"wx/defs.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\accel.h
+	"wx/defs.h"
+	"wx/object.h"
+	"wx/generic/accel.h"
+	"wx/msw/accel.h"
+	"wx/motif/accel.h"
+	"wx/gtk/accel.h"
+	"wx/gtk1/accel.h"
+	"wx/osx/accel.h"
+	"wx/qt/accel.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\generic\accel.h
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\msw\accel.h
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\motif\accel.h
+	"wx/object.h"
+	"wx/string.h"
+	"wx/event.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\gtk\accel.h
+	"wx/generic/accel.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\gtk1\accel.h
+	"wx/generic/accel.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\osx\accel.h
+	"wx/string.h"
+	"wx/event.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\qt\accel.h
+	"wx/vector.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\access.h
+	"wx/defs.h"
+	"wx/variant.h"
+	"wx/msw/ole/access.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\msw\ole\access.h
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\msw\window.h
+	"wx/settings.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\settings.h
+	"wx/colour.h"
+	"wx/font.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\motif\window.h
+	"wx/region.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\gtk\window.h
+	"wx/dynarray.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\gtk1\window.h
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\x11\window.h
+	"wx/region.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\dfb\window.h
+	"wx/dfb/dfbptr.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\osx\window.h
+	"wx/brush.h"
+	"wx/dc.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\brush.h
+	"wx/defs.h"
+	"wx/object.h"
+	"wx/gdiobj.h"
+	"wx/gdicmn.h"
+	"wx/msw/brush.h"
+	"wx/x11/brush.h"
+	"wx/gtk/brush.h"
+	"wx/gtk1/brush.h"
+	"wx/dfb/brush.h"
+	"wx/osx/brush.h"
+	"wx/qt/brush.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\msw\brush.h
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\x11\brush.h
+	"wx/gdiobj.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\gtk\brush.h
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\gtk1\brush.h
+	"wx/defs.h"
+	"wx/object.h"
+	"wx/string.h"
+	"wx/gdiobj.h"
+	"wx/bitmap.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\dfb\brush.h
+	"wx/defs.h"
+	"wx/object.h"
+	"wx/string.h"
+	"wx/gdiobj.h"
+	"wx/bitmap.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\osx\brush.h
+	"wx/gdicmn.h"
+	"wx/gdiobj.h"
+	"wx/bitmap.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\qt\brush.h
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\dc.h
+	"wx/object.h"
+	"wx/intl.h"
+	"wx/colour.h"
+	"wx/font.h"
+	"wx/bitmap.h"
+	"wx/brush.h"
+	"wx/pen.h"
+	"wx/palette.h"
+	"wx/dynarray.h"
+	"wx/math.h"
+	"wx/image.h"
+	"wx/region.h"
+	"wx/affinematrix2d.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\pen.h
+	"wx/gdiobj.h"
+	"wx/peninfobase.h"
+	"wx/msw/pen.h"
+	"wx/x11/pen.h"
+	"wx/gtk/pen.h"
+	"wx/gtk1/pen.h"
+	"wx/dfb/pen.h"
+	"wx/osx/pen.h"
+	"wx/qt/pen.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\peninfobase.h
+	"wx/bitmap.h"
+	"wx/colour.h"
+	"wx/gdicmn.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\msw\pen.h
+	"wx/gdiobj.h"
+	"wx/gdicmn.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\x11\pen.h
+	"wx/gdicmn.h"
+	"wx/gdiobj.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\gtk\pen.h
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\gtk1\pen.h
+	"wx/defs.h"
+	"wx/object.h"
+	"wx/string.h"
+	"wx/gdiobj.h"
+	"wx/gdicmn.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\dfb\pen.h
+	"wx/defs.h"
+	"wx/object.h"
+	"wx/string.h"
+	"wx/gdiobj.h"
+	"wx/gdicmn.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\osx\pen.h
+	"wx/gdiobj.h"
+	"wx/colour.h"
+	"wx/bitmap.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\qt\pen.h
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\affinematrix2d.h
+	"wx/defs.h"
+	"wx/affinematrix2dbase.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\affinematrix2dbase.h
+	"wx/defs.h"
+	"wx/geometry.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\geometry.h
+	"wx/defs.h"
+	"wx/utils.h"
+	"wx/gdicmn.h"
+	"wx/math.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\qt\window.h
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\univ\window.h
+	"wx/bitmap.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\dfb\nonownedwnd.h
+	"wx/window.h"
+	"wx/dfb/dfbptr.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\gtk\nonownedwnd.h
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\osx\nonownedwnd.h
+	"wx/window.h"
+	"wx/graphics.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\graphics.h
+	"wx/defs.h"
+	"wx/affinematrix2d.h"
+	"wx/geometry.h"
+	"wx/colour.h"
+	"wx/dynarray.h"
+	"wx/font.h"
+	"wx/image.h"
+	"wx/peninfobase.h"
+	"wx/vector.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\msw\nonownedwnd.h
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\qt\nonownedwnd.h
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\iconbndl.h
+	"wx/gdiobj.h"
+	"wx/gdicmn.h"
+	"wx/icon.h"
+	"wx/dynarray.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\weakref.h
+	"wx/tracker.h"
+	"wx/meta/convertible.h"
+	"wx/meta/int2type.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\meta\int2type.h
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\msw\toplevel.h
+	"wx/weakref.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\gtk\toplevel.h
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\gtk1\toplevel.h
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\x11\toplevel.h
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\dfb\toplevel.h
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\osx\toplevel.h
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\motif\toplevel.h
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\qt\toplevel.h
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\univ\toplevel.h
+	"wx/univ/inpcons.h"
+	"wx/univ/inphand.h"
+	"wx/icon.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\univ\inpcons.h
+	"wx/object.h"
+	"wx/event.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\univ\inphand.h
+	"wx/univ/inpcons.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\statusbr.h
+	"wx/defs.h"
+	"wx/control.h"
+	"wx/list.h"
+	"wx/dynarray.h"
+	"wx/univ/statusbr.h"
+	"wx/msw/statusbar.h"
+	"wx/generic/statusbr.h"
+	"wx/osx/statusbr.h"
+	"wx/qt/statusbar.h"
+	"wx/generic/statusbr.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\control.h
+	"wx/defs.h"
+	"wx/window.h"
+	"wx/gdicmn.h"
+	"wx/univ/control.h"
+	"wx/msw/control.h"
+	"wx/motif/control.h"
+	"wx/gtk/control.h"
+	"wx/gtk1/control.h"
+	"wx/osx/control.h"
+	"wx/qt/control.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\univ\control.h
+	"wx/univ/inphand.h"
+	"wx/univ/inpcons.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\msw\control.h
+	"wx/dynarray.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\motif\control.h
+	"wx/window.h"
+	"wx/list.h"
+	"wx/validate.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\gtk\control.h
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\gtk1\control.h
+	"wx/defs.h"
+	"wx/object.h"
+	"wx/list.h"
+	"wx/window.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\osx\control.h
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\qt\control.h
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\univ\statusbr.h
+	"wx/univ/inpcons.h"
+	"wx/arrstr.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\msw\statusbar.h
+	"wx/vector.h"
+	"wx/tooltip.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\tooltip.h
+	"wx/defs.h"
+	"wx/msw/tooltip.h"
+	"wx/gtk/tooltip.h"
+	"wx/gtk1/tooltip.h"
+	"wx/osx/tooltip.h"
+	"wx/qt/tooltip.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\msw\tooltip.h
+	"wx/object.h"
+	"wx/gdicmn.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\gtk\tooltip.h
+	"wx/string.h"
+	"wx/object.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\gtk1\tooltip.h
+	"wx/defs.h"
+	"wx/string.h"
+	"wx/object.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\osx\tooltip.h
+	"wx/string.h"
+	"wx/event.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\qt\tooltip.h
+	"wx/object.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\generic\statusbr.h
+	"wx/defs.h"
+	"wx/pen.h"
+	"wx/arrstr.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\osx\statusbr.h
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\qt\statusbar.h
+	"wx/statusbr.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\univ\frame.h
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\msw\frame.h
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\gtk\frame.h
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\gtk1\frame.h
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\motif\frame.h
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\osx\frame.h
+	"wx/toolbar.h"
+	"wx/accel.h"
+	"wx/icon.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\toolbar.h
+	"wx/defs.h"
+	"wx/tbarbase.h"
+	"wx/univ/toolbar.h"
+	"wx/msw/toolbar.h"
+	"wx/motif/toolbar.h"
+	"wx/gtk/toolbar.h"
+	"wx/gtk1/toolbar.h"
+	"wx/osx/toolbar.h"
+	"wx/qt/toolbar.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\tbarbase.h
+	"wx/defs.h"
+	"wx/bitmap.h"
+	"wx/list.h"
+	"wx/control.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\univ\toolbar.h
+	"wx/button.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\button.h
+	"wx/defs.h"
+	"wx/anybutton.h"
+	"wx/univ/button.h"
+	"wx/msw/button.h"
+	"wx/motif/button.h"
+	"wx/gtk/button.h"
+	"wx/gtk1/button.h"
+	"wx/osx/button.h"
+	"wx/qt/button.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\anybutton.h
+	"wx/defs.h"
+	"wx/bitmap.h"
+	"wx/control.h"
+	"wx/univ/anybutton.h"
+	"wx/msw/anybutton.h"
+	"wx/gtk/anybutton.h"
+	"wx/osx/anybutton.h"
+	"wx/qt/anybutton.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\univ\anybutton.h
+	"wx/univ/inphand.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\msw\anybutton.h
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\gtk\anybutton.h
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\osx\anybutton.h
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\qt\anybutton.h
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\univ\button.h
+	"wx/bitmap.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\msw\button.h
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\motif\button.h
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\gtk\button.h
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\gtk1\button.h
+	"wx/defs.h"
+	"wx/object.h"
+	"wx/list.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\osx\button.h
+	"wx/control.h"
+	"wx/gdicmn.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\qt\button.h
+	"wx/control.h"
+	"wx/button.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\msw\toolbar.h
+	"wx/dynarray.h"
+	"wx/imaglist.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\imaglist.h
+	"wx/defs.h"
+	"wx/msw/imaglist.h"
+	"wx/generic/imaglist.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\msw\imaglist.h
+	"wx/bitmap.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\generic\imaglist.h
+	"wx/bitmap.h"
+	"wx/gdicmn.h"
+	"wx/vector.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\motif\toolbar.h
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\gtk\toolbar.h
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\gtk1\toolbar.h
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\osx\toolbar.h
+	"wx/tbarbase.h"
+	"wx/dynarray.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\qt\toolbar.h
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\qt\frame.h
+	"wx/frame.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\x11\app.h
+	"wx/gdicmn.h"
+	"wx/event.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\osx\app.h
+	"wx/defs.h"
+	"wx/object.h"
+	"wx/gdicmn.h"
+	"wx/event.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\qt\app.h
+	<wx/scopedarray.h>
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\scopedarray.h
+	"wx/defs.h"
+	"wx/checkeddelete.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\univ\theme.h
+	"wx/string.h"
+
+1737037616 d:\users\klaus\sources\edr\build\edr2main.h
+	<wx/button.h>
+	<wx/choice.h>
+	<wx/filepicker.h>
+	<wx/frame.h>
+	<wx/menu.h>
+	<wx/panel.h>
+	<wx/sizer.h>
+	<wx/spinctrl.h>
+	<wx/stattext.h>
+	<wx/statusbr.h>
+	<wx/textctrl.h>
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\choice.h
+	"wx/defs.h"
+	"wx/ctrlsub.h"
+	"wx/univ/choice.h"
+	"wx/msw/choice.h"
+	"wx/motif/choice.h"
+	"wx/gtk/choice.h"
+	"wx/gtk1/choice.h"
+	"wx/osx/choice.h"
+	"wx/qt/choice.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\ctrlsub.h
+	"wx/defs.h"
+	"wx/arrstr.h"
+	"wx/control.h"
+	<vector>
+	"wx/msw/ctrlsub.h"
+	"wx/motif/ctrlsub.h"
+	"wx/qt/ctrlsub.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\msw\ctrlsub.h
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\motif\ctrlsub.h
+	"wx/dynarray.h"
+	"wx/generic/ctrlsub.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\generic\ctrlsub.h
+	"wx/dynarray.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\qt\ctrlsub.h
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\univ\choice.h
+	"wx/combobox.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\combobox.h
+	"wx/defs.h"
+	"wx/textctrl.h"
+	"wx/ctrlsub.h"
+	"wx/textentry.h"
+	"wx/univ/combobox.h"
+	"wx/msw/combobox.h"
+	"wx/motif/combobox.h"
+	"wx/gtk/combobox.h"
+	"wx/gtk1/combobox.h"
+	"wx/osx/combobox.h"
+	"wx/qt/combobox.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\textctrl.h
+	"wx/defs.h"
+	"wx/control.h"
+	"wx/textentry.h"
+	"wx/dynarray.h"
+	"wx/gdicmn.h"
+	"wx/ioswrap.h"
+	"wx/x11/textctrl.h"
+	"wx/univ/textctrl.h"
+	"wx/msw/textctrl.h"
+	"wx/motif/textctrl.h"
+	"wx/gtk/textctrl.h"
+	"wx/gtk1/textctrl.h"
+	"wx/osx/textctrl.h"
+	"wx/qt/textctrl.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\textentry.h
+	"wx/filefn.h"
+	"wx/gdicmn.h"
+	"wx/gtk/textentry.h"
+	"wx/osx/textentry.h"
+	"wx/msw/textentry.h"
+	"wx/motif/textentry.h"
+	"wx/qt/textentry.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\gtk\textentry.h
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\osx\textentry.h
+	"wx/control.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\msw\textentry.h
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\motif\textentry.h
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\qt\textentry.h
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\ioswrap.h
+	"wx/beforestd.h"
+	<iostream>
+	"wx/afterstd.h"
+	"wx/msw/winundef.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\x11\textctrl.h
+	"wx/univ/textctrl.h"
+	"wx/scrolwin.h"
+	"wx/arrstr.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\univ\textctrl.h
+	"wx/scrolwin.h"
+	"wx/univ/inphand.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\scrolwin.h
+	"wx/control.h"
+	"wx/panel.h"
+	"wx/scrolbar.h"
+	"wx/gtk/scrolwin.h"
+	"wx/gtk1/scrolwin.h"
+	"wx/generic/scrolwin.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\panel.h
+	"wx/window.h"
+	"wx/containr.h"
+	"wx/univ/panel.h"
+	"wx/msw/panel.h"
+	"wx/generic/panelg.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\containr.h
+	"wx/defs.h"
+	"wx/event.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\univ\panel.h
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\msw\panel.h
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\generic\panelg.h
+	"wx/bitmap.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\scrolbar.h
+	"wx/defs.h"
+	"wx/control.h"
+	"wx/univ/scrolbar.h"
+	"wx/msw/scrolbar.h"
+	"wx/motif/scrolbar.h"
+	"wx/gtk/scrolbar.h"
+	"wx/gtk1/scrolbar.h"
+	"wx/osx/scrolbar.h"
+	"wx/qt/scrolbar.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\univ\scrolbar.h
+	"wx/univ/scrarrow.h"
+	"wx/renderer.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\univ\scrarrow.h
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\renderer.h
+	"wx/gdicmn.h"
+	"wx/colour.h"
+	"wx/font.h"
+	"wx/bitmap.h"
+	"wx/string.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\msw\scrolbar.h
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\motif\scrolbar.h
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\gtk\scrolbar.h
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\gtk1\scrolbar.h
+	"wx/defs.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\osx\scrolbar.h
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\qt\scrolbar.h
+	"wx/scrolbar.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\gtk\scrolwin.h
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\gtk1\scrolwin.h
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\generic\scrolwin.h
+	"wx/recguard.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\recguard.h
+	"wx/defs.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\msw\textctrl.h
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\motif\textctrl.h
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\gtk\textctrl.h
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\gtk1\textctrl.h
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\osx\textctrl.h
+	"wx/control.h"
+	"wx/textctrl.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\qt\textctrl.h
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\univ\combobox.h
+	"wx/combo.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\combo.h
+	"wx/defs.h"
+	"wx/control.h"
+	"wx/renderer.h"
+	"wx/bitmap.h"
+	"wx/textentry.h"
+	"wx/time.h"
+	"wx/msw/combo.h"
+	"wx/generic/combo.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\msw\combo.h
+	"wx/timer.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\timer.h
+	"wx/defs.h"
+	"wx/object.h"
+	"wx/longlong.h"
+	"wx/event.h"
+	"wx/stopwatch.h"
+	"wx/utils.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\stopwatch.h
+	"wx/defs.h"
+	"wx/longlong.h"
+	"wx/time.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\generic\combo.h
+	"wx/containr.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\msw\combobox.h
+	"wx/choice.h"
+	"wx/textentry.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\motif\combobox.h
+	"wx/choice.h"
+	"wx/textentry.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\gtk\combobox.h
+	"wx/choice.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\gtk1\combobox.h
+	"wx/defs.h"
+	"wx/object.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\osx\combobox.h
+	"wx/containr.h"
+	"wx/choice.h"
+	"wx/textctrl.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\qt\combobox.h
+	"wx/choice.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\msw\choice.h
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\motif\choice.h
+	"wx/clntdata.h"
+	"wx/dynarray.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\gtk\choice.h
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\gtk1\choice.h
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\osx\choice.h
+	"wx/control.h"
+	"wx/dynarray.h"
+	"wx/arrstr.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\qt\choice.h
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\filepicker.h
+	"wx/defs.h"
+	"wx/pickerbase.h"
+	"wx/filename.h"
+	"wx/gtk/filepicker.h"
+	"wx/generic/filepickerg.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\pickerbase.h
+	"wx/control.h"
+	"wx/sizer.h"
+	"wx/containr.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\sizer.h
+	"wx/defs.h"
+	"wx/window.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\filename.h
+	"wx/arrstr.h"
+	"wx/filefn.h"
+	"wx/datetime.h"
+	"wx/intl.h"
+	"wx/longlong.h"
+	"wx/file.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\file.h
+	"wx/defs.h"
+	"wx/string.h"
+	"wx/filefn.h"
+	"wx/convauto.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\convauto.h
+	"wx/strconv.h"
+	"wx/fontenc.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\gtk\filepicker.h
+	"wx/generic/filepickerg.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\generic\filepickerg.h
+	"wx/button.h"
+	"wx/filedlg.h"
+	"wx/dirdlg.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\filedlg.h
+	"wx/defs.h"
+	"wx/dialog.h"
+	"wx/arrstr.h"
+	"wx/generic/filedlgg.h"
+	"wx/msw/filedlg.h"
+	"wx/motif/filedlg.h"
+	"wx/gtk/filedlg.h"
+	"wx/gtk1/filedlg.h"
+	"wx/osx/filedlg.h"
+	"wx/qt/filedlg.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\dialog.h
+	"wx/toplevel.h"
+	"wx/containr.h"
+	"wx/sharedptr.h"
+	"wx/univ/dialog.h"
+	"wx/msw/dialog.h"
+	"wx/motif/dialog.h"
+	"wx/gtk/dialog.h"
+	"wx/gtk1/dialog.h"
+	"wx/osx/dialog.h"
+	"wx/qt/dialog.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\sharedptr.h
+	"wx/defs.h"
+	"wx/atomic.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\atomic.h
+	"wx/defs.h"
+	"wx/msw/wrapwin.h"
+	"libkern/OSAtomic.h"
+	<atomic.h>
+	"wx/thread.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\univ\dialog.h
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\msw\dialog.h
+	"wx/panel.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\motif\dialog.h
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\gtk\dialog.h
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\gtk1\dialog.h
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\osx\dialog.h
+	"wx/panel.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\qt\dialog.h
+	"wx/dialog.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\generic\filedlgg.h
+	"wx/listctrl.h"
+	"wx/datetime.h"
+	"wx/filefn.h"
+	"wx/artprov.h"
+	"wx/filedlg.h"
+	"wx/generic/filectrlg.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\listctrl.h
+	"wx/defs.h"
+	"wx/listbase.h"
+	"wx/msw/listctrl.h"
+	"wx/qt/listctrl.h"
+	"wx/generic/listctrl.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\listbase.h
+	"wx/colour.h"
+	"wx/font.h"
+	"wx/gdicmn.h"
+	"wx/event.h"
+	"wx/control.h"
+	"wx/itemattr.h"
+	"wx/systhemectrl.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\itemattr.h
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\systhemectrl.h
+	"wx/defs.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\msw\listctrl.h
+	"wx/textctrl.h"
+	"wx/dynarray.h"
+	"wx/vector.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\qt\listctrl.h
+	"wx/textctrl.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\generic\listctrl.h
+	"wx/containr.h"
+	"wx/scrolwin.h"
+	"wx/textctrl.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\artprov.h
+	"wx/string.h"
+	"wx/bitmap.h"
+	"wx/icon.h"
+	"wx/iconbndl.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\generic\filectrlg.h
+	"wx/containr.h"
+	"wx/listctrl.h"
+	"wx/filectrl.h"
+	"wx/filename.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\filectrl.h
+	"wx/defs.h"
+	"wx/string.h"
+	"wx/event.h"
+	"wx/gtk/filectrl.h"
+	"wx/generic/filectrlg.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\gtk\filectrl.h
+	"wx/control.h"
+	"wx/filectrl.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\msw\filedlg.h
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\motif\filedlg.h
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\gtk\filedlg.h
+	"wx/gtk/filectrl.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\gtk1\filedlg.h
+	"wx/generic/filedlgg.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\osx\filedlg.h
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\qt\filedlg.h
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\dirdlg.h
+	"wx/defs.h"
+	"wx/dialog.h"
+	"wx/generic/dirdlgg.h"
+	"wx/generic/dirdlgg.h"
+	"wx/msw/dirdlg.h"
+	"wx/gtk/dirdlg.h"
+	"wx/generic/dirdlgg.h"
+	"wx/osx/dirdlg.h"
+	"wx/generic/dirdlgg.h"
+	"wx/qt/dirdlg.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\generic\dirdlgg.h
+	"wx/dialog.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\msw\dirdlg.h
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\gtk\dirdlg.h
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\osx\dirdlg.h
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\qt\dirdlg.h
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\menu.h
+	"wx/defs.h"
+	"wx/list.h"
+	"wx/window.h"
+	"wx/menuitem.h"
+	"wx/univ/menu.h"
+	"wx/msw/menu.h"
+	"wx/motif/menu.h"
+	"wx/gtk/menu.h"
+	"wx/gtk1/menu.h"
+	"wx/osx/menu.h"
+	"wx/qt/menu.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\menuitem.h
+	"wx/defs.h"
+	"wx/object.h"
+	"wx/windowid.h"
+	"wx/univ/menuitem.h"
+	"wx/msw/menuitem.h"
+	"wx/motif/menuitem.h"
+	"wx/gtk/menuitem.h"
+	"wx/gtk1/menuitem.h"
+	"wx/osx/menuitem.h"
+	"wx/qt/menuitem.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\univ\menuitem.h
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\msw\menuitem.h
+	"wx/bitmap.h"
+	"wx/ownerdrw.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\ownerdrw.h
+	"wx/defs.h"
+	"wx/font.h"
+	"wx/colour.h"
+	"wx/msw/ownerdrw.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\msw\ownerdrw.h
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\motif\menuitem.h
+	"wx/bitmap.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\gtk\menuitem.h
+	"wx/bitmap.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\gtk1\menuitem.h
+	"wx/bitmap.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\osx\menuitem.h
+	"wx/defs.h"
+	"wx/bitmap.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\qt\menuitem.h
+	"wx/menuitem.h"
+	"wx/bitmap.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\univ\menu.h
+	"wx/accel.h"
+	"wx/dynarray.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\msw\menu.h
+	"wx/accel.h"
+	"wx/dynarray.h"
+	"wx/arrstr.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\motif\menu.h
+	"wx/colour.h"
+	"wx/font.h"
+	"wx/arrstr.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\gtk\menu.h
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\gtk1\menu.h
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\osx\menu.h
+	"wx/arrstr.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\qt\menu.h
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\spinctrl.h
+	"wx/defs.h"
+	"wx/spinbutt.h"
+	"wx/msw/spinctrl.h"
+	"wx/gtk/spinctrl.h"
+	"wx/gtk1/spinctrl.h"
+	"wx/qt/spinctrl.h"
+	"wx/generic/spinctlg.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\spinbutt.h
+	"wx/defs.h"
+	"wx/control.h"
+	"wx/event.h"
+	"wx/range.h"
+	"wx/univ/spinbutt.h"
+	"wx/msw/spinbutt.h"
+	"wx/motif/spinbutt.h"
+	"wx/gtk/spinbutt.h"
+	"wx/gtk1/spinbutt.h"
+	"wx/osx/spinbutt.h"
+	"wx/qt/spinbutt.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\range.h
+	"wx/defs.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\univ\spinbutt.h
+	"wx/univ/scrarrow.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\msw\spinbutt.h
+	"wx/control.h"
+	"wx/event.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\motif\spinbutt.h
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\gtk\spinbutt.h
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\gtk1\spinbutt.h
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\osx\spinbutt.h
+	"wx/control.h"
+	"wx/event.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\qt\spinbutt.h
+	"wx/spinbutt.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\msw\spinctrl.h
+	"wx/spinbutt.h"
+	"wx/dynarray.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\gtk\spinctrl.h
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\gtk1\spinctrl.h
+	"wx/defs.h"
+	"wx/control.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\qt\spinctrl.h
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\generic\spinctlg.h
+	"wx/compositewin.h"
+	"wx/textctrl.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\compositewin.h
+	"wx/window.h"
+	"wx/containr.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\stattext.h
+	"wx/defs.h"
+	"wx/control.h"
+	"wx/univ/stattext.h"
+	"wx/msw/stattext.h"
+	"wx/motif/stattext.h"
+	"wx/gtk/stattext.h"
+	"wx/gtk1/stattext.h"
+	"wx/osx/stattext.h"
+	"wx/qt/stattext.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\univ\stattext.h
+	"wx/generic/stattextg.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\generic\stattextg.h
+	"wx/stattext.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\msw\stattext.h
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\motif\stattext.h
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\gtk\stattext.h
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\gtk1\stattext.h
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\osx\stattext.h
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\qt\stattext.h
+
+1744312905 source:d:\users\klaus\sources\edr\build\edr2main.cpp
+	"EDR2Main.h"
+	"version.h"
+	<wx/intl.h>
+	<wx/settings.h>
+	<wx/string.h>
+	<wx/msgdlg.h>
+	<wx/valtext.h>
+	<wx/stdpaths.h>
+	<wx/filename.h>
+	<wx/xml/xml.h>
+	"EDRinput.hpp"
+	"./graph2d.h"
+
+1746869697 d:\users\klaus\sources\edr\build\version.h
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\msgdlg.h
+	"wx/defs.h"
+	"wx/dialog.h"
+	"wx/stockitem.h"
+	"wx/generic/msgdlgg.h"
+	"wx/msw/msgdlg.h"
+	"wx/motif/msgdlg.h"
+	"wx/gtk/msgdlg.h"
+	"wx/osx/msgdlg.h"
+	"wx/qt/msgdlg.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\stockitem.h
+	"wx/defs.h"
+	"wx/chartype.h"
+	"wx/string.h"
+	"wx/accel.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\generic\msgdlgg.h
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\msw\msgdlg.h
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\motif\msgdlg.h
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\gtk\msgdlg.h
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\osx\msgdlg.h
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\qt\msgdlg.h
+	"wx/msgdlg.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\valtext.h
+	"wx/defs.h"
+	"wx/validate.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\stdpaths.h
+	"wx/defs.h"
+	"wx/string.h"
+	"wx/filefn.h"
+	"wx/msw/stdpaths.h"
+	"wx/osx/cocoa/stdpaths.h"
+	"wx/unix/stdpaths.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\msw\stdpaths.h
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\osx\cocoa\stdpaths.h
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\unix\stdpaths.h
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\xml\xml.h
+	"wx/defs.h"
+	"wx/string.h"
+	"wx/object.h"
+	"wx/list.h"
+	"wx/textbuf.h"
+	"wx/versioninfo.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\textbuf.h
+	"wx/defs.h"
+	"wx/arrstr.h"
+	"wx/convauto.h"
+	"wx/string.h"
+	"wx/dynarray.h"
+
+1746869697 d:\users\klaus\sources\edr\build\edrinput.hpp
+
+1738190246 d:\users\klaus\sources\edr\build\graph2d.h
+
+1746869642 source:d:\users\klaus\sources\edr\build\readcrashdata.l
+	"ReadCrashData.h"
+	"EDRinput.hpp"
+
+1690367206 d:\users\klaus\sources\edr\build\readcrashdata.h
+
+1746020504 source:d:\users\klaus\sources\edr\build\resource.rc
+	"wx/msw/wx.rc"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\msw\wx.rc
+	<windows.h>
+	"wx/msw/rcdefs.h"
+
+1618266238 c:\usrprogs\wxwidgets-3.1.5\include\wx\msw\rcdefs.h
 

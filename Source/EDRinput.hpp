@@ -1,7 +1,7 @@
 /** ****************************************************************************
 \file    EDRinput.hpp
 \brief   Common Block EDRINPUT
-\version 1.2
+\version 1.3
 \author  Dr.-Ing. Klaus Friedewald
 \~german
          C Header passend zu EDRinput.fd
@@ -11,8 +11,8 @@
 
 ***************************************************************************** */
 
-#define iLi 1000
-#define iLe 100
+#define iLi 20000 // Do not forget EDRinput.fd!
+#define iLe 200
 #define lablen 80
 
 extern "C" {
